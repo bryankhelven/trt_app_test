@@ -1,0 +1,711 @@
+{
+  "deckId": "rws_v1",
+  "title": "Rider-Waite-Smith (1909)",
+  "version": "1.0.0",
+  "source": "Pamela Colman Smith / Rider & Son, 1909 — public domain scans via Wikimedia Commons",
+  "schemaVersion": 1,
+  "cards": [
+    {
+      "cardId": "major_00_fool",
+      "canonicalName": "O Louco",
+      "arcanaType": "major",
+      "numberOrRank": 0,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_00_fool.jpg",
+      "editorialContentId": "major_00_fool"
+    },
+    {
+      "cardId": "major_01_magician",
+      "canonicalName": "O Mago",
+      "arcanaType": "major",
+      "numberOrRank": 1,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_01_magician.jpg",
+      "editorialContentId": "major_01_magician"
+    },
+    {
+      "cardId": "major_02_high_priestess",
+      "canonicalName": "A Sacerdotisa",
+      "arcanaType": "major",
+      "numberOrRank": 2,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_02_high_priestess.jpg",
+      "editorialContentId": "major_02_high_priestess"
+    },
+    {
+      "cardId": "major_03_empress",
+      "canonicalName": "A Imperatriz",
+      "arcanaType": "major",
+      "numberOrRank": 3,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_03_empress.jpg",
+      "editorialContentId": "major_03_empress"
+    },
+    {
+      "cardId": "major_04_emperor",
+      "canonicalName": "O Imperador",
+      "arcanaType": "major",
+      "numberOrRank": 4,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_04_emperor.jpg",
+      "editorialContentId": "major_04_emperor"
+    },
+    {
+      "cardId": "major_05_hierophant",
+      "canonicalName": "O Hierofante",
+      "arcanaType": "major",
+      "numberOrRank": 5,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_05_hierophant.jpg",
+      "editorialContentId": "major_05_hierophant"
+    },
+    {
+      "cardId": "major_06_lovers",
+      "canonicalName": "Os Enamorados",
+      "arcanaType": "major",
+      "numberOrRank": 6,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_06_lovers.jpg",
+      "editorialContentId": "major_06_lovers"
+    },
+    {
+      "cardId": "major_07_chariot",
+      "canonicalName": "O Carro",
+      "arcanaType": "major",
+      "numberOrRank": 7,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_07_chariot.jpg",
+      "editorialContentId": "major_07_chariot"
+    },
+    {
+      "cardId": "major_08_strength",
+      "canonicalName": "A Forca",
+      "arcanaType": "major",
+      "numberOrRank": 8,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_08_strength.jpg",
+      "editorialContentId": "major_08_strength"
+    },
+    {
+      "cardId": "major_09_hermit",
+      "canonicalName": "O Eremita",
+      "arcanaType": "major",
+      "numberOrRank": 9,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_09_hermit.jpg",
+      "editorialContentId": "major_09_hermit"
+    },
+    {
+      "cardId": "major_10_wheel_of_fortune",
+      "canonicalName": "A Roda da Fortuna",
+      "arcanaType": "major",
+      "numberOrRank": 10,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_10_wheel_of_fortune.jpg",
+      "editorialContentId": "major_10_wheel_of_fortune"
+    },
+    {
+      "cardId": "major_11_justice",
+      "canonicalName": "A Justica",
+      "arcanaType": "major",
+      "numberOrRank": 11,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_11_justice.jpg",
+      "editorialContentId": "major_11_justice"
+    },
+    {
+      "cardId": "major_12_hanged_man",
+      "canonicalName": "O Enforcado",
+      "arcanaType": "major",
+      "numberOrRank": 12,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_12_hanged_man.jpg",
+      "editorialContentId": "major_12_hanged_man"
+    },
+    {
+      "cardId": "major_13_death",
+      "canonicalName": "A Morte",
+      "arcanaType": "major",
+      "numberOrRank": 13,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_13_death.jpg",
+      "editorialContentId": "major_13_death"
+    },
+    {
+      "cardId": "major_14_temperance",
+      "canonicalName": "A Temperanca",
+      "arcanaType": "major",
+      "numberOrRank": 14,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_14_temperance.jpg",
+      "editorialContentId": "major_14_temperance"
+    },
+    {
+      "cardId": "major_15_devil",
+      "canonicalName": "O Diabo",
+      "arcanaType": "major",
+      "numberOrRank": 15,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_15_devil.jpg",
+      "editorialContentId": "major_15_devil"
+    },
+    {
+      "cardId": "major_16_tower",
+      "canonicalName": "A Torre",
+      "arcanaType": "major",
+      "numberOrRank": 16,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_16_tower.jpg",
+      "editorialContentId": "major_16_tower"
+    },
+    {
+      "cardId": "major_17_star",
+      "canonicalName": "A Estrela",
+      "arcanaType": "major",
+      "numberOrRank": 17,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_17_star.jpg",
+      "editorialContentId": "major_17_star"
+    },
+    {
+      "cardId": "major_18_moon",
+      "canonicalName": "A Lua",
+      "arcanaType": "major",
+      "numberOrRank": 18,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_18_moon.jpg",
+      "editorialContentId": "major_18_moon"
+    },
+    {
+      "cardId": "major_19_sun",
+      "canonicalName": "O Sol",
+      "arcanaType": "major",
+      "numberOrRank": 19,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_19_sun.jpg",
+      "editorialContentId": "major_19_sun"
+    },
+    {
+      "cardId": "major_20_judgement",
+      "canonicalName": "O Julgamento",
+      "arcanaType": "major",
+      "numberOrRank": 20,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_20_judgement.jpg",
+      "editorialContentId": "major_20_judgement"
+    },
+    {
+      "cardId": "major_21_world",
+      "canonicalName": "O Mundo",
+      "arcanaType": "major",
+      "numberOrRank": 21,
+      "suit": null,
+      "artworkAssetId": "assets/decks/rws_v1/artwork/major_21_world.jpg",
+      "editorialContentId": "major_21_world"
+    },
+    {
+      "cardId": "wands_ace",
+      "canonicalName": "Ás de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 1,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_ace.jpg",
+      "editorialContentId": "wands_ace"
+    },
+    {
+      "cardId": "wands_02",
+      "canonicalName": "Dois de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 2,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_02.jpg",
+      "editorialContentId": "wands_02"
+    },
+    {
+      "cardId": "wands_03",
+      "canonicalName": "Três de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 3,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_03.jpg",
+      "editorialContentId": "wands_03"
+    },
+    {
+      "cardId": "wands_04",
+      "canonicalName": "Quatro de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 4,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_04.jpg",
+      "editorialContentId": "wands_04"
+    },
+    {
+      "cardId": "wands_05",
+      "canonicalName": "Cinco de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 5,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_05.jpg",
+      "editorialContentId": "wands_05"
+    },
+    {
+      "cardId": "wands_06",
+      "canonicalName": "Seis de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 6,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_06.jpg",
+      "editorialContentId": "wands_06"
+    },
+    {
+      "cardId": "wands_07",
+      "canonicalName": "Sete de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 7,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_07.jpg",
+      "editorialContentId": "wands_07"
+    },
+    {
+      "cardId": "wands_08",
+      "canonicalName": "Oito de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 8,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_08.jpg",
+      "editorialContentId": "wands_08"
+    },
+    {
+      "cardId": "wands_09",
+      "canonicalName": "Nove de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 9,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_09.jpg",
+      "editorialContentId": "wands_09"
+    },
+    {
+      "cardId": "wands_10",
+      "canonicalName": "Dez de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 10,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_10.jpg",
+      "editorialContentId": "wands_10"
+    },
+    {
+      "cardId": "wands_page",
+      "canonicalName": "Valete de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 11,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_page.jpg",
+      "editorialContentId": "wands_page"
+    },
+    {
+      "cardId": "wands_knight",
+      "canonicalName": "Cavaleiro de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 12,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_knight.jpg",
+      "editorialContentId": "wands_knight"
+    },
+    {
+      "cardId": "wands_queen",
+      "canonicalName": "Rainha de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 13,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_queen.jpg",
+      "editorialContentId": "wands_queen"
+    },
+    {
+      "cardId": "wands_king",
+      "canonicalName": "Rei de Paus",
+      "arcanaType": "minor",
+      "numberOrRank": 14,
+      "suit": "wands",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/wands_king.jpg",
+      "editorialContentId": "wands_king"
+    },
+    {
+      "cardId": "cups_ace",
+      "canonicalName": "Ás de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 1,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_ace.jpg",
+      "editorialContentId": "cups_ace"
+    },
+    {
+      "cardId": "cups_02",
+      "canonicalName": "Dois de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 2,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_02.jpg",
+      "editorialContentId": "cups_02"
+    },
+    {
+      "cardId": "cups_03",
+      "canonicalName": "Três de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 3,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_03.jpg",
+      "editorialContentId": "cups_03"
+    },
+    {
+      "cardId": "cups_04",
+      "canonicalName": "Quatro de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 4,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_04.jpg",
+      "editorialContentId": "cups_04"
+    },
+    {
+      "cardId": "cups_05",
+      "canonicalName": "Cinco de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 5,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_05.jpg",
+      "editorialContentId": "cups_05"
+    },
+    {
+      "cardId": "cups_06",
+      "canonicalName": "Seis de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 6,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_06.jpg",
+      "editorialContentId": "cups_06"
+    },
+    {
+      "cardId": "cups_07",
+      "canonicalName": "Sete de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 7,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_07.jpg",
+      "editorialContentId": "cups_07"
+    },
+    {
+      "cardId": "cups_08",
+      "canonicalName": "Oito de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 8,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_08.jpg",
+      "editorialContentId": "cups_08"
+    },
+    {
+      "cardId": "cups_09",
+      "canonicalName": "Nove de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 9,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_09.jpg",
+      "editorialContentId": "cups_09"
+    },
+    {
+      "cardId": "cups_10",
+      "canonicalName": "Dez de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 10,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_10.jpg",
+      "editorialContentId": "cups_10"
+    },
+    {
+      "cardId": "cups_page",
+      "canonicalName": "Valete de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 11,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_page.jpg",
+      "editorialContentId": "cups_page"
+    },
+    {
+      "cardId": "cups_knight",
+      "canonicalName": "Cavaleiro de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 12,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_knight.jpg",
+      "editorialContentId": "cups_knight"
+    },
+    {
+      "cardId": "cups_queen",
+      "canonicalName": "Rainha de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 13,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_queen.jpg",
+      "editorialContentId": "cups_queen"
+    },
+    {
+      "cardId": "cups_king",
+      "canonicalName": "Rei de Copas",
+      "arcanaType": "minor",
+      "numberOrRank": 14,
+      "suit": "cups",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/cups_king.jpg",
+      "editorialContentId": "cups_king"
+    },
+    {
+      "cardId": "swords_ace",
+      "canonicalName": "Ás de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 1,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_ace.jpg",
+      "editorialContentId": "swords_ace"
+    },
+    {
+      "cardId": "swords_02",
+      "canonicalName": "Dois de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 2,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_02.jpg",
+      "editorialContentId": "swords_02"
+    },
+    {
+      "cardId": "swords_03",
+      "canonicalName": "Três de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 3,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_03.jpg",
+      "editorialContentId": "swords_03"
+    },
+    {
+      "cardId": "swords_04",
+      "canonicalName": "Quatro de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 4,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_04.jpg",
+      "editorialContentId": "swords_04"
+    },
+    {
+      "cardId": "swords_05",
+      "canonicalName": "Cinco de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 5,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_05.jpg",
+      "editorialContentId": "swords_05"
+    },
+    {
+      "cardId": "swords_06",
+      "canonicalName": "Seis de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 6,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_06.jpg",
+      "editorialContentId": "swords_06"
+    },
+    {
+      "cardId": "swords_07",
+      "canonicalName": "Sete de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 7,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_07.jpg",
+      "editorialContentId": "swords_07"
+    },
+    {
+      "cardId": "swords_08",
+      "canonicalName": "Oito de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 8,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_08.jpg",
+      "editorialContentId": "swords_08"
+    },
+    {
+      "cardId": "swords_09",
+      "canonicalName": "Nove de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 9,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_09.jpg",
+      "editorialContentId": "swords_09"
+    },
+    {
+      "cardId": "swords_10",
+      "canonicalName": "Dez de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 10,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_10.jpg",
+      "editorialContentId": "swords_10"
+    },
+    {
+      "cardId": "swords_page",
+      "canonicalName": "Valete de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 11,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_page.jpg",
+      "editorialContentId": "swords_page"
+    },
+    {
+      "cardId": "swords_knight",
+      "canonicalName": "Cavaleiro de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 12,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_knight.jpg",
+      "editorialContentId": "swords_knight"
+    },
+    {
+      "cardId": "swords_queen",
+      "canonicalName": "Rainha de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 13,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_queen.jpg",
+      "editorialContentId": "swords_queen"
+    },
+    {
+      "cardId": "swords_king",
+      "canonicalName": "Rei de Espadas",
+      "arcanaType": "minor",
+      "numberOrRank": 14,
+      "suit": "swords",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/swords_king.jpg",
+      "editorialContentId": "swords_king"
+    },
+    {
+      "cardId": "pentacles_ace",
+      "canonicalName": "Ás de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 1,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_ace.jpg",
+      "editorialContentId": "pentacles_ace"
+    },
+    {
+      "cardId": "pentacles_02",
+      "canonicalName": "Dois de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 2,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_02.jpg",
+      "editorialContentId": "pentacles_02"
+    },
+    {
+      "cardId": "pentacles_03",
+      "canonicalName": "Três de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 3,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_03.jpg",
+      "editorialContentId": "pentacles_03"
+    },
+    {
+      "cardId": "pentacles_04",
+      "canonicalName": "Quatro de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 4,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_04.jpg",
+      "editorialContentId": "pentacles_04"
+    },
+    {
+      "cardId": "pentacles_05",
+      "canonicalName": "Cinco de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 5,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_05.jpg",
+      "editorialContentId": "pentacles_05"
+    },
+    {
+      "cardId": "pentacles_06",
+      "canonicalName": "Seis de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 6,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_06.jpg",
+      "editorialContentId": "pentacles_06"
+    },
+    {
+      "cardId": "pentacles_07",
+      "canonicalName": "Sete de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 7,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_07.jpg",
+      "editorialContentId": "pentacles_07"
+    },
+    {
+      "cardId": "pentacles_08",
+      "canonicalName": "Oito de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 8,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_08.jpg",
+      "editorialContentId": "pentacles_08"
+    },
+    {
+      "cardId": "pentacles_09",
+      "canonicalName": "Nove de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 9,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_09.jpg",
+      "editorialContentId": "pentacles_09"
+    },
+    {
+      "cardId": "pentacles_10",
+      "canonicalName": "Dez de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 10,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_10.jpg",
+      "editorialContentId": "pentacles_10"
+    },
+    {
+      "cardId": "pentacles_page",
+      "canonicalName": "Valete de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 11,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_page.jpg",
+      "editorialContentId": "pentacles_page"
+    },
+    {
+      "cardId": "pentacles_knight",
+      "canonicalName": "Cavaleiro de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 12,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_knight.jpg",
+      "editorialContentId": "pentacles_knight"
+    },
+    {
+      "cardId": "pentacles_queen",
+      "canonicalName": "Rainha de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 13,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_queen.jpg",
+      "editorialContentId": "pentacles_queen"
+    },
+    {
+      "cardId": "pentacles_king",
+      "canonicalName": "Rei de Ouros",
+      "arcanaType": "minor",
+      "numberOrRank": 14,
+      "suit": "pentacles",
+      "artworkAssetId": "assets/decks/rws_v1/artwork/pentacles_king.jpg",
+      "editorialContentId": "pentacles_king"
+    }
+  ]
+}
