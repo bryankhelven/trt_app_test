@@ -9,7 +9,7 @@ class SqlReadingRepository implements ReadingRepository {
   SqlReadingRepository(this.db);
   final AppDatabase db;
   @override
-  Future<void> save(ReadingSession session) => db.transaction(() async {
+  Future<void> save(ReadingSession session) => db.persistedTransaction(() async {
     await db
         .into(db.readings)
         .insertOnConflictUpdate(
@@ -52,7 +52,7 @@ class SqlReadingRepository implements ReadingRepository {
       ReadingCodec.decode(row.payload),
   ];
   @override
-  Future<void> delete(String id) => db.transaction(() async {
+  Future<void> delete(String id) => db.persistedTransaction(() async {
     await (db.delete(
       db.activeReadings,
     )..where((r) => r.readingId.equals(id))).go();

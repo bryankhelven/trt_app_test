@@ -12,7 +12,7 @@ Esta revisão atende às correções do usuário e substitui a restrição anter
 - R3-06: rótulos não podem interceptar o arraste de cartas que estejam sob eles. Nas telas estreitas, reposicionar os rótulos centrais da Cruz Celta. Reservar uma faixa livre na mesa fixa para retirar e organizar cartas antes de encaixá-las. Manter cruzes, proporções e destinos acessíveis em retrato e paisagem; zoom amplia a mesa inteira.
 - R3-07: animar chegada, encaixe/movimento e revelação. O arraste acompanha o ponteiro sem atraso. Respeitar a preferência de movimento reduzido e a configuração de acessibilidade do sistema. Nenhuma animação consome ou revela cartas por conta própria.
 - R3-08: preservar tiragens temporárias, salvamento somente explícito, nova tiragem, seleção distribuída/percorrida, divisão de baralho e banner no rodapé.
-- R3-09: uma nova compilação Web deve assumir o controle de abas que ainda estejam sob o cache anterior. A primeira instalação não deve recarregar a página; uma atualização deve ativar o novo worker imediatamente e recarregar uma única vez.
+- R3-09 (revisado para a beta Pages): a primeira instalação não deve recarregar a página. Uma atualização oferece “Atualizar agora”, para permitir salvar a tiragem antes de ativar o novo worker e recarregar uma única vez. Detalhes em `PAGES_BETA.md`.
 
 ## Modelo
 

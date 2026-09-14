@@ -80,6 +80,6 @@ O teste Web aceita `CHROME_EXECUTABLE`. Para instalar as dependências do smoke 
 - `docs/evidence/`: resultados reais desta execução; logs red/green e capturas. Evidências atuais em `docs/evidence/revision2/`.
 - `docs/baseline/`: referência visual e relatórios herdados, que não provam o estado atual.
 
-## Antes de publicar
+## Antes de publicar nas lojas
 
-Configurar identidade definitiva, assinatura, contas/produtos e preço nas lojas; verificar recibos e estornos; validar billing/consentimento em sandbox; revisar conteúdo e proveniência jurídica; testar iOS/Windows em seus hosts. Consulte a lista completa em `docs/VALIDATION.md`. Nenhuma publicação foi realizada.
+Configurar identidade definitiva, assinatura, contas/produtos e preço nas lojas; verificar recibos e estornos; validar billing/consentimento em sandbox; revisar conteúdo e proveniência jurídica; testar iOS/Windows em seus hosts. Consulte a lista completa em `docs/VALIDATION.md`. A beta web é independente dessas publicações nas lojas.

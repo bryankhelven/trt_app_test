@@ -30,6 +30,17 @@ class Settings extends Table {
 @DriftDatabase(tables: [Readings, ActiveReadings, Settings])
 class AppDatabase extends _$AppDatabase {
   AppDatabase(super.e);
+
+  /// Complete IndexedDB writes before reporting success to the UI.
+  /// Drift 2.34.4 defers WASM flushes while its transaction flag is set,
+  /// including during COMMIT. A statement outside the finished transaction
+  /// triggers and awaits the pending flush. SELECT does not change user data.
+  Future<T> persistedTransaction<T>(Future<T> Function() action) async {
+    final result = await transaction(action);
+    await customStatement('SELECT 1');
+    return result;
+  }
+
   @override
   int get schemaVersion => 4;
   @override

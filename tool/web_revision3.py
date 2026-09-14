@@ -3,12 +3,14 @@ import asyncio, json, os, re, traceback
 from pathlib import Path
 from playwright.async_api import async_playwright
 OUT=Path('docs/evidence/revision3')
+OUT.mkdir(parents=True,exist_ok=True)
 BASE=os.environ.get('ARCANUM_PREVIEW_URL','http://localhost:8879')
 async def main():
  async with async_playwright() as p:
   browser=await p.chromium.launch(executable_path=os.environ.get('CHROME_EXECUTABLE','/home/bryan/.cache/ms-playwright/chromium-1234/chrome-linux64/chrome'),headless=True,args=['--no-sandbox','--use-gl=swiftshader','--enable-unsafe-swiftshader'])
   ctx=await browser.new_context(viewport={'width':1280,'height':900})
-  page=await ctx.new_page();checks=[];errors=[]
+  page=await ctx.new_page();checks=[];errors=[];console=[]
+  page.on('console',lambda m:console.append(m.text))
   page.on('pageerror',lambda e:errors.append(str(e)))
   page.on('console',lambda m:errors.append(m.text) if m.type=='error' else None)
   async def semantics():
@@ -112,11 +114,11 @@ async def main():
    await ctx.set_offline(True);await page.reload();await semantics();await deck(78).wait_for()
    checks.append('Updated app opens offline')
    assert not errors,errors
-   result={'status':'PASS','checks':checks,'errors':errors}
+   result={'status':'PASS','checks':checks,'errors':errors,'console':console}
   except Exception as e:
    await page.screenshot(path=str(OUT/'web-failure.png'))
    (OUT/'web-failure-semantics.txt').write_text(await page.locator('body').inner_text())
-   result={'status':'FAIL','checks':checks,'error':repr(e),'traceback':traceback.format_exc(),'errors':errors}
+   result={'status':'FAIL','checks':checks,'error':repr(e),'traceback':traceback.format_exc(),'errors':errors,'console':console}
   (OUT/'web-acceptance.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
   print(json.dumps(result,ensure_ascii=False));await browser.close()
   if result['status']!='PASS':raise SystemExit(1)

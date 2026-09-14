@@ -3,4 +3,7 @@ set -euo pipefail
 TAROT_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 export PUB_CACHE="$TAROT_ROOT/.tooling/pub-cache"
 export DART_SUPPRESS_ANALYTICS=true
-exec "$TAROT_ROOT/.tooling/flutter/bin/dart" "$@"
+if [[ -x "$TAROT_ROOT/.tooling/flutter/bin/dart" ]]; then
+  exec "$TAROT_ROOT/.tooling/flutter/bin/dart" "$@"
+fi
+exec dart "$@"

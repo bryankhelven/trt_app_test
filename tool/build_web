@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.."
+tool/flutter pub get
+tool/dart compile js -O4 --no-source-maps tool/drift_worker.dart -o .dart_tool/drift_worker.js
+cp .dart_tool/drift_worker.js web/drift_worker.js
 tool/flutter build web --no-web-resources-cdn "$@"
 python3 tool/prepare_offline.py
