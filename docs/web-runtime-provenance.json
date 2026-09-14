@@ -1,0 +1,14 @@
+{
+  "sqlite3.wasm": {
+    "source": "https://github.com/simolus3/drift/releases/download/drift-2.34.4/sqlite3.wasm",
+    "retrieved": "2026-09-05",
+    "sha256": "13d3f11d05b39ba0618a7115fb41640a5d48b6300f5d3f325f554b42bd6688a4",
+    "license": "See docs/licenses; SQLite engine public domain"
+  },
+  "drift_worker.js": {
+    "source": "pub.dev drift 2.34.4 distribution",
+    "retrieved": "2026-09-05",
+    "sha256": "104bc207d4a3a0b70fc249fcd91d72b558cf7a8677fe49b41cafffe22a5144f4",
+    "license": "See docs/licenses; SQLite engine public domain"
+  }
+}

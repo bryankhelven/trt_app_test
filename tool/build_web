@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.."
+tool/flutter build web --no-web-resources-cdn "$@"
+python3 tool/prepare_offline.py

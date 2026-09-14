@@ -1,0 +1,27 @@
+.tooling/
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+*.iml
+.idea/
+.flutter-plugins-dependencies
+android/local.properties
+android/key.properties
+android/.gradle/
+
+*:Zone.Identifier
+*.log
+!docs/evidence/*.log
+*.jks
+*.keystore
+.DS_Store
+
+!docs/evidence/**/*.log
+
+# Local validation captures and previous-project archives are not application source.
+docs/evidence/
+docs/baseline/
+__pycache__/
+*.pyc

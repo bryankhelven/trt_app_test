@@ -1,0 +1,1096 @@
+{
+  "cards": [
+    {
+      "card_id": "major_00_fool",
+      "keywords": [
+        "comeco",
+        "espontaneidade",
+        "risco confiante",
+        "liberdade"
+      ],
+      "concise_meaning": "Um novo ciclo se abre; o convite é para avançar com leveza mesmo sem todas as respostas.",
+      "extended_meaning": "O Louco marca o ponto zero da jornada: a decisão de dar o primeiro passo antes de ter certeza do caminho. Em leituras práticas costuma indicar início de projeto, mudança de rumo ou uma escolha que exige mais confiança do que planejamento. Não é imprudência gratuita, mas disposição de se mover apesar da incerteza, confiando na própria capacidade de se adaptar. No amor sugere abertura a um vínculo ainda não definido; no trabalho, a coragem de experimentar algo fora da rotina. O convite é observar o entusiasmo sem ignorar o precipício ao lado do caminho — atenção e leveza podem coexistir.",
+      "symbolism": "O jovem caminha à beira de um precipício com um cão a seus pés, carregando uma trouxa leve e uma rosa branca — despreocupação genuína e pureza de intenção diante do risco visível.",
+      "element": "Ar (elemento)",
+      "astrology": null
+    },
+    {
+      "card_id": "major_01_magician",
+      "keywords": [
+        "vontade concentrada",
+        "recursos disponiveis",
+        "iniciativa",
+        "habilidade"
+      ],
+      "concise_meaning": "Todos os recursos necessários já estão à mão; falta apenas dirigir a vontade para um objetivo claro.",
+      "extended_meaning": "O Mago representa o momento em que a intenção se transforma em ação: os elementos da mesa (o bastão, a taça, a espada, o disco) mostram que os quatro instrumentos da experiência humana estão disponíveis para quem decide usá-los. Em uma leitura, aponta capacidade real de realizar algo agora, desde que haja foco e disciplina — não é sorte, é articulação de talento com oportunidade. No trabalho sugere tomar a iniciativa de um projeto; no campo pessoal, comunicar uma intenção com clareza. O risco é dispersão: a mesma energia que cria pode se perder em múltiplos começos não terminados.",
+      "symbolism": "Sobre a mesa estão os quatro instrumentos dos naipes menores; uma mão aponta ao céu e outra ao chão, unindo potencial espiritual e ação concreta no mesmo gesto.",
+      "element": "Mercurio",
+      "astrology": null
+    },
+    {
+      "card_id": "major_02_high_priestess",
+      "keywords": [
+        "intuicao",
+        "conhecimento reservado",
+        "silencio ativo",
+        "misterio a decifrar"
+      ],
+      "concise_meaning": "Nem tudo pode ou deve ser dito agora; a resposta está mais perto da intuição do que da razão.",
+      "extended_meaning": "A Sacerdotisa senta entre pilares opostos, guardiã de um véu que separa o que é dito do que é apenas sentido. Sua presença numa leitura costuma indicar que a informação decisiva ainda não está totalmente acessível pela lógica — convém observar sonhos, sensações e padrões sutis antes de agir. Não é uma carta de passividade, mas de escuta profunda: às vezes esperar e perceber vale mais que perguntar diretamente. Em decisões, sugere consultar o próprio critério interior em vez de se apoiar apenas em conselhos externos. Pode também indicar segredos, gravidez ou processos que ainda amadurecem em silêncio.",
+      "symbolism": "Sentada entre as colunas Jaquin e Boaz, com a Torá parcialmente velada no colo, ela guarda conhecimento que só se revela a quem sabe esperar e perceber.",
+      "element": "Lua",
+      "astrology": null
+    },
+    {
+      "card_id": "major_03_empress",
+      "keywords": [
+        "fertilidade",
+        "abundancia sensorial",
+        "cuidado criativo",
+        "crescimento natural"
+      ],
+      "concise_meaning": "Um período fértil de criação e cuidado; o que foi plantado agora tem condições reais de crescer.",
+      "extended_meaning": "A Imperatriz é a força que nutre: campos maduros, água corrente e conforto material cercam seu trono. Em leitura, sinaliza abundância — de afeto, de criatividade, de recursos — e a capacidade de fazer algo florescer com paciência e cuidado, não com pressa. Pode se referir a projetos criativos, gravidez real ou simbólica, relacionamentos que amadurecem ou a necessidade de cuidar melhor do próprio corpo e ambiente. É também um lembrete sensorial: comer bem, descansar, tocar e ser tocado fazem parte da mesma sabedoria que planejar e decidir. Excesso de indulgência é o único risco que a carta insinua discretamente.",
+      "symbolism": "Cercada por trigo maduro e um rio corrente, com um cetro e um escudo em forma de coração com o símbolo de Vênus, ela une fertilidade natural e proteção afetiva.",
+      "element": "Venus",
+      "astrology": null
+    },
+    {
+      "card_id": "major_04_emperor",
+      "keywords": [
+        "estrutura",
+        "autoridade estavel",
+        "disciplina",
+        "protecao firme"
+      ],
+      "concise_meaning": "Ordem e estrutura sustentam o que antes era só potencial; é hora de estabelecer regras claras.",
+      "extended_meaning": "Sentado em um trono de pedra, o Imperador representa a autoridade que constrói fronteiras e mantém compromissos mesmo quando ninguém está observando. Em uma leitura, aponta para a necessidade de organização, liderança ou disciplina prática: contratos, planejamento financeiro, regras familiares ou metas com prazos definidos. É uma energia protetora, não tirânica, quando bem equilibrada — dá segurança para que outros possam crescer dentro de uma estrutura confiável. No trabalho pode indicar assumir responsabilidade de gestão; nos relacionamentos, buscar estabilidade e compromissos explícitos. Rigidez excessiva é a sombra a observar quando essa carta domina uma leitura.",
+      "symbolism": "Sentado num trono de pedra ornado com cabeças de carneiro, símbolo de Áries, segura um cetro em forma de ankh — poder que sustenta a vida, não apenas a controla.",
+      "element": "Aries",
+      "astrology": null
+    },
+    {
+      "card_id": "major_05_hierophant",
+      "keywords": [
+        "tradicao",
+        "aprendizado formal",
+        "pertencimento",
+        "orientacao reconhecida"
+      ],
+      "concise_meaning": "Uma estrutura de conhecimento já testada oferece orientação segura; vale a pena aprender com quem já percorreu o caminho.",
+      "extended_meaning": "O Hierofante é o elo entre o indivíduo e uma tradição, instituição ou mentor que guarda conhecimento acumulado. Em leitura, costuma indicar aprendizado formal, casamento ou compromisso reconhecido socialmente, aconselhamento espiritual ou a decisão de seguir um caminho já validado por outros em vez de inventar um novo sozinho. Pode sugerir buscar um mentor, retomar estudos ou respeitar um protocolo necessário. Também fala sobre comunidade e pertencimento — o valor de compartilhar crenças e rituais com um grupo. A sombra aparece quando a tradição vira dogma rígido que impede o crescimento pessoal ou o questionamento saudável.",
+      "symbolism": "Entre duas colunas, com dois seguidores ajoelhados diante dele, ergue a mão em bênção tripla, unindo autoridade espiritual reconhecida e transmissão de conhecimento.",
+      "element": "Touro",
+      "astrology": null
+    },
+    {
+      "card_id": "major_06_lovers",
+      "keywords": [
+        "escolha de valores",
+        "conexao autentica",
+        "alinhamento intimo",
+        "decisao do coracao"
+      ],
+      "concise_meaning": "Uma escolha importante pede alinhamento entre o que se sente e o que se valoriza de verdade.",
+      "extended_meaning": "Mais do que romance superficial, Os Enamorados tratam de escolhas que revelam quem somos: um convite para alinhar desejo, valores e compromisso. Em relacionamentos, indica conexão genuína, mas também a necessidade de decidir com honestidade entre caminhos possíveis. No trabalho ou na vida pessoal, pode representar uma bifurcação onde nenhuma opção é claramente errada, exigindo que a pessoa escolha com base no que realmente importa para ela, não apenas no que parece certo aos outros. A presença do anjo na cena tradicional sugere que a escolha, quando feita com consciência, é abençoada — a dificuldade está em não escolher por medo ou hábito.",
+      "symbolism": "Um anjo paira sobre o casal nu diante da árvore do conhecimento e da árvore da vida, sugerindo que a escolha consciente entre desejo e valores é abençoada quando feita com honestidade.",
+      "element": "Gemeos",
+      "astrology": null
+    },
+    {
+      "card_id": "major_07_chariot",
+      "keywords": [
+        "determinacao",
+        "vontade dirigida",
+        "vitoria por foco",
+        "controle de forcas opostas"
+      ],
+      "concise_meaning": "Vontade firme e foco disciplinado conduzem a uma vitória, mesmo quando forças opostas puxam em direções diferentes.",
+      "extended_meaning": "O Carro avança porque o condutor mantém as rédeas das duas esfinges — impulsos contrários mantidos sob controle consciente, não eliminados. Em leitura, indica capacidade de vencer obstáculos através de determinação, foco e autodisciplina, especialmente quando há tensões internas ou externas competindo por direção. Pode surgir em contextos de viagem, competição, mudança de cidade ou qualquer situação que exija avançar apesar da resistência. É uma carta de ação decidida, não de espera. O risco associado é impor a própria vontade sem escutar os sinais do caminho, confundindo teimosia com determinação real.",
+      "symbolism": "Duas esfinges, uma preta e uma branca, permanecem paradas apesar do condutor armado avançar sem rédeas visíveis — vontade que governa forças opostas pela intenção, não pela força bruta.",
+      "element": "Cancer",
+      "astrology": null
+    },
+    {
+      "card_id": "major_08_strength",
+      "keywords": [
+        "coragem gentil",
+        "autocontrole compassivo",
+        "paciencia ativa",
+        "dominio interior"
+      ],
+      "concise_meaning": "A verdadeira força vem da paciência e da compaixão, não da imposição bruta.",
+      "extended_meaning": "A figura acaricia o leão em vez de subjugá-lo pela força, mostrando que o verdadeiro domínio nasce da gentileza persistente e da confiança tranquila. Em leitura, esta carta indica coragem interior para lidar com medos, impulsos ou situações difíceis sem recorrer à agressão — paciência ativa em vez de reação impulsiva. Pode aparecer quando é preciso enfrentar um desafio emocional, cuidar de alguém em crise ou conter um impulso próprio destrutivo. Também fala sobre autoestima genuína, construída pelo autoconhecimento e não pela necessidade de provar algo aos outros. É um lembrete de que resistir com calma é, muitas vezes, mais poderoso do que atacar.",
+      "symbolism": "Uma figura vestida de branco fecha suavemente a boca de um leão, com o símbolo do infinito sobre a cabeça, unindo coragem interior e domínio compassivo, não violento.",
+      "element": "Leao",
+      "astrology": null
+    },
+    {
+      "card_id": "major_09_hermit",
+      "keywords": [
+        "introspecao",
+        "busca de sentido",
+        "orientacao interior",
+        "retiro necessario"
+      ],
+      "concise_meaning": "É tempo de recuar da agitação externa para buscar clareza através da própria luz interior.",
+      "extended_meaning": "O Eremita ergue sua lanterna sozinho no alto de uma montanha, representando a etapa em que o crescimento exige distanciamento temporário do barulho social. Em leitura, sugere um período de introspecção, estudo solitário ou busca espiritual, no qual respostas importantes surgem melhor no silêncio do que na multidão. Pode indicar necessidade real de solidão, uma pausa em relacionamentos sociais intensos, ou a procura por um mentor ou tradição que ilumine o próximo passo. Não é isolamento permanente, mas um recolhimento com propósito, que prepara a pessoa para retornar ao mundo com mais clareza. O excesso dessa energia pode levar a isolamento evitativo se prolongado além do necessário.",
+      "symbolism": "No alto de uma montanha nevada, o ancião ergue uma lanterna com uma estrela de seis pontas em seu interior, iluminando o próprio caminho antes de guiar o de outros.",
+      "element": "Virgem",
+      "astrology": null
+    },
+    {
+      "card_id": "major_10_wheel_of_fortune",
+      "keywords": [
+        "ciclos",
+        "virada de sorte",
+        "mudanca inevitavel",
+        "ritmo maior da vida"
+      ],
+      "concise_meaning": "Um ciclo está virando; mudanças que fogem ao controle direto trazem uma nova fase.",
+      "extended_meaning": "A Roda gira independentemente da vontade individual, lembrando que existem ritmos maiores — sorte, destino, contexto histórico — que moldam a vida além do esforço pessoal. Em leitura, geralmente indica uma virada significativa: uma oportunidade inesperada, o fim de um período difícil ou o início de outro desafiador, dependendo do que vinha antes na leitura. Convida a aceitar a impermanência sem tentar controlar tudo, mantendo-se preparado e flexível para aproveitar a mudança quando ela vier. Pode surgir em contextos de sorte financeira, mudanças de emprego repentinas ou eventos externos que reorganizam prioridades pessoais. A atitude recomendada é adaptação serena, não resistência.",
+      "symbolism": "A roda gira cercada por criaturas simbólicas e letras que remetem a nomes divinos e ao processo alquímico, lembrando que o destino segue uma ordem maior que a vontade individual.",
+      "element": "Jupiter",
+      "astrology": null
+    },
+    {
+      "card_id": "major_11_justice",
+      "keywords": [
+        "equilibrio",
+        "responsabilidade por consequencias",
+        "verdade objetiva",
+        "decisao justa"
+      ],
+      "concise_meaning": "As consequências de escolhas passadas voltam com precisão; equilíbrio e honestidade guiam a decisão presente.",
+      "extended_meaning": "Com a espada erguida e a balança equilibrada, esta carta representa causa e efeito aplicados com imparcialidade: cada ação gera uma consequência proporcional, sem exceções emocionais. Em leitura, costuma indicar questões legais, contratos, decisões que exigem honestidade rigorosa ou a necessidade de assumir responsabilidade por escolhas anteriores. Também fala sobre buscar equilíbrio entre razão e sentimento antes de decidir algo importante. Pode surgir quando alguém pede um veredito claro sobre uma situação ambígua, sugerindo que a verdade objetiva, ainda que desconfortável, é o caminho mais são. Evitar a responsabilidade tende a adiar, não eliminar, o ajuste que esta carta indica.",
+      "symbolism": "Sentada entre colunas, com espada erguida numa mão e balança equilibrada na outra, representa julgamento aplicado sem favorecimento a nenhum dos lados.",
+      "element": "Libra",
+      "astrology": null
+    },
+    {
+      "card_id": "major_12_hanged_man",
+      "keywords": [
+        "pausa voluntaria",
+        "novo angulo de visao",
+        "suspensao produtiva",
+        "renuncia temporaria"
+      ],
+      "concise_meaning": "Uma pausa deliberada e uma mudança de perspectiva revelam o que a pressa não deixava ver.",
+      "extended_meaning": "Suspenso de cabeça para baixo, mas com expressão serena, o Enforcado escolheu a suspensão como caminho para enxergar de outro ângulo. Em leitura, indica um momento em que agir menos e observar mais traz mais proveito do que insistir na direção anterior. Pode sinalizar um sacrifício temporário, um adiamento necessário ou a aceitação de estar em compasso de espera enquanto uma situação amadurece por conta própria. É diferente de estagnação: há intenção e serenidade nessa pausa, não desespero. Pode surgir quando é preciso abrir mão de controle sobre algo para permitir que uma solução mais completa apareça depois.",
+      "symbolism": "Suspenso por um pé a uma viga em forma de T, com auréola dourada ao redor da cabeça, mostra serenidade e iluminação alcançadas justamente pela suspensão voluntária da ação.",
+      "element": "Agua (elemento)",
+      "astrology": null
+    },
+    {
+      "card_id": "major_13_death",
+      "keywords": [
+        "encerramento necessario",
+        "transformacao",
+        "fim de ciclo",
+        "renovacao apos perda"
+      ],
+      "concise_meaning": "Um ciclo chega ao fim de forma definitiva, abrindo espaço para uma transformação necessária.",
+      "extended_meaning": "Apesar do nome, esta carta raramente indica morte física em uma leitura — representa o encerramento inevitável de uma fase, hábito, papel social ou relação que já cumpriu sua função. Como a figura montada segue adiante enquanto figuras de todas as classes sociais reagem ao seu redor, a mensagem é que a transformação não escolhe quem está pronto: ela chega quando chega. Resistir prolonga o desconforto; aceitar o fim libera energia para o que vem a seguir. Pode indicar o término de um emprego, relacionamento ou identidade que não cabe mais, abrindo caminho, ainda que doloroso no início, para uma renovação genuína.",
+      "symbolism": "A figura de armadura negra avança montada, enquanto um rei já caído, uma criança e um bispo reagem diferente diante dela — a mudança trata a todos igualmente, sem exceção de status.",
+      "element": "Escorpiao",
+      "astrology": null
+    },
+    {
+      "card_id": "major_14_temperance",
+      "keywords": [
+        "equilibrio dinamico",
+        "integracao paciente",
+        "mistura certa",
+        "moderacao ativa"
+      ],
+      "concise_meaning": "Paciência e ajuste fino combinam elementos opostos até encontrar a proporção certa.",
+      "extended_meaning": "O anjo verte água entre dois cálices em movimento contínuo, ilustrando um equilíbrio que não é estático, mas construído com atenção constante. Em leitura, esta carta sugere moderação ativa: combinar rotina e descanso, razão e emoção, ou interesses de pessoas diferentes, até chegar a uma solução que funcione na prática. É útil quando há dois extremos em conflito e a resposta certa está numa síntese paciente, não numa escolha radical. Pode indicar processos de cura, negociações delicadas ou a integração de hábitos novos e antigos. A mensagem central é: não force o encaixe, ajuste aos poucos até a mistura ficar certa.",
+      "symbolism": "Um pé na terra e outro na água, o anjo verte líquido entre dois cálices num fluxo contínuo, equilibrando extremos com paciência ativa, não com escolha única.",
+      "element": "Sagitario",
+      "astrology": null
+    },
+    {
+      "card_id": "major_15_devil",
+      "keywords": [
+        "apego limitante",
+        "padrao aprisionador",
+        "materialidade excessiva",
+        "autoengano"
+      ],
+      "concise_meaning": "Um padrão de dependência ou apego está limitando a liberdade real de escolha.",
+      "extended_meaning": "As figuras acorrentadas ao pedestal do Diabo poderiam soltar as correntes frouxas a qualquer momento, mas permanecem paralisadas pelo hábito e pelo medo de mudar. Em leitura, essa carta aponta para vícios, relações codependentes, apego material excessivo ou padrões de pensamento que aprisionam mais pela repetição do que pela força real da situação. Não é uma condenação moral, mas um convite a reconhecer onde a liberdade está sendo abandonada por comodismo, atração ou medo do desconhecido. Pode surgir em contextos de trabalho tóxico, consumo compulsivo ou relacionamentos desequilibrados. O primeiro passo que a carta sugere é simplesmente perceber a corrente — o resto se torna mais claro depois disso.",
+      "symbolism": "Duas figuras acorrentadas de forma frouxa ao pedestal de um ser com chifres e asas de morcego mostram que a prisão é mais hábito aceito do que impossibilidade real de fuga.",
+      "element": "Capricornio",
+      "astrology": null
+    },
+    {
+      "card_id": "major_16_tower",
+      "keywords": [
+        "ruptura subita",
+        "revelacao inevitavel",
+        "colapso de uma estrutura falsa",
+        "choque libertador"
+      ],
+      "concise_meaning": "Uma estrutura construída sobre bases falsas desmorona de forma súbita, revelando a verdade por baixo.",
+      "extended_meaning": "O raio atinge a torre e derruba a coroa que a coroava, uma imagem de estruturas — crenças, relações, planos — que caem quando não estão apoiadas na realidade. Em leitura, geralmente indica uma crise repentina, uma revelação chocante ou o fim abrupto de algo que já estava instável havia tempo, mesmo que isso não fosse admitido. Por mais desconfortável que seja, a queda costuma libertar de uma ilusão que impedia um recomeço mais honesto. Pode surgir em rupturas, demissões inesperadas ou verdades que vêm à tona de uma só vez. A recomendação da carta é não tentar reconstruir exatamente o que caiu — construir de novo sobre bases mais reais.",
+      "symbolism": "Um raio atinge o topo da torre, derrubando sua coroa e lançando duas figuras ao vazio — estruturas erguidas sobre bases falsas não resistem à revelação súbita da verdade.",
+      "element": "Marte",
+      "astrology": null
+    },
+    {
+      "card_id": "major_17_star",
+      "keywords": [
+        "esperanca renovada",
+        "cura silenciosa",
+        "confianca no futuro",
+        "serenidade apos a crise"
+      ],
+      "concise_meaning": "Depois da tempestade, uma esperança calma e genuína começa a restaurar a confiança no futuro.",
+      "extended_meaning": "Sob um céu de estrelas, a figura verte água em um lago e na terra, cuidando tanto do consciente quanto do inconsciente após um período de ruptura. Em leitura, esta carta costuma surgir depois de cartas mais difíceis, indicando que a cura já começou e que há motivo real para esperança, mesmo que o processo ainda leve tempo. Sugere reconectar-se com propósitos maiores, cuidar da saúde emocional e confiar que o esforço presente está sendo direcionado corretamente. Pode indicar também inspiração criativa renovada ou o retorno de um sentimento de significado depois de uma fase de desânimo. É uma das cartas mais serenamente otimistas do baralho.",
+      "symbolism": "Sob sete estrelas menores e uma maior, a figura nua verte água em um lago e na terra ao mesmo tempo, cuidando do consciente e do inconsciente após a ruptura anterior.",
+      "element": "Aquario",
+      "astrology": null
+    },
+    {
+      "card_id": "major_18_moon",
+      "keywords": [
+        "incerteza emocional",
+        "imaginacao ativa",
+        "medos nao totalmente racionais",
+        "caminho pouco claro"
+      ],
+      "concise_meaning": "O caminho à frente não está totalmente claro; emoções e imaginação pedem cautela e paciência.",
+      "extended_meaning": "Sob a luz enganosa da lua, um caminho sinuoso atravessa território incerto entre duas torres e criaturas que emergem das águas profundas. Em leitura, esta carta indica um momento de confusão emocional, medos difíceis de nomear com precisão ou informações incompletas que tornam decisões apressadas arriscadas. Sonhos, intuições e ansiedades ficam mais vívidos nesse período, e nem tudo que se sente é literalmente verdadeiro — mas também nem tudo deve ser ignorado. Pode surgir quando algo permanece oculto ou quando a mente projeta mais medo do que a situação real justifica. A orientação é avançar devagar, confirmando fatos antes de reagir apenas à emoção.",
+      "symbolism": "Entre duas torres, um cão e um lobo uivam para a lua enquanto uma lagosta emerge da água — instintos e medos ainda pouco compreendidos se movem sob luz incerta.",
+      "element": "Peixes",
+      "astrology": null
+    },
+    {
+      "card_id": "major_19_sun",
+      "keywords": [
+        "clareza radiante",
+        "alegria genuina",
+        "sucesso visivel",
+        "vitalidade recuperada"
+      ],
+      "concise_meaning": "Clareza, vitalidade e alegria genuína substituem a confusão anterior; o que era oculto agora se mostra com naturalidade.",
+      "extended_meaning": "A criança monta livremente sob o sol brilhante, cercada de girassóis, numa imagem de vitalidade sem disfarces nem segundas intenções. Em leitura, esta é uma das cartas mais favoráveis do baralho: indica sucesso reconhecido, boa saúde, alegria simples e verdades que finalmente vêm à luz sem ambiguidade. Pode sinalizar um nascimento, uma conquista pública, a resolução satisfatória de algo que antes causava dúvida, ou apenas uma fase de bem-estar genuíno que vale a pena aproveitar plenamente. É um convite a celebrar sem medo de que a alegria seja imerecida ou passageira. Praticamente não carrega sombra significativa, salvo o excesso de confiança em contextos que ainda exigem cuidado.",
+      "symbolism": "Uma criança nua monta um cavalo branco sob um sol radiante com rosto humano, cercada de girassóis voltados para a luz, numa cena de vitalidade sem disfarces.",
+      "element": "Sol",
+      "astrology": null
+    },
+    {
+      "card_id": "major_20_judgement",
+      "keywords": [
+        "chamado decisivo",
+        "autoavaliacao honesta",
+        "despertar",
+        "segunda chance consciente"
+      ],
+      "concise_meaning": "Um chamado interior pede uma autoavaliação honesta e a decisão de responder a ele de forma definitiva.",
+      "extended_meaning": "As figuras erguem-se de seus túmulos ao som do anjo, respondendo a um chamado que não pode mais ser adiado. Em leitura, esta carta indica um momento de avaliação honesta sobre o próprio caminho — reconhecer erros, reconhecer méritos e decidir, com clareza renovada, o que fazer a seguir. Pode surgir em contextos de retomada de algo abandonado, reconciliação após um período de distanciamento ou a sensação de estar sendo chamado para um propósito maior que a rotina cotidiana. Não é julgamento externo punitivo, mas um convite ao ajuste de contas consigo mesmo, seguido de ação decisiva. É frequentemente associada a recomeços conscientes, não impulsivos.",
+      "symbolism": "Um anjo toca a trombeta sobre figuras que se erguem de caixões abertos, respondendo a um chamado que exige avaliação honesta antes de qualquer novo passo.",
+      "element": "Fogo (elemento)",
+      "astrology": null
+    },
+    {
+      "card_id": "major_21_world",
+      "keywords": [
+        "realizacao completa",
+        "ciclo concluido",
+        "integracao",
+        "reconhecimento merecido"
+      ],
+      "concise_meaning": "Um ciclo importante se completa com sucesso; o esforço investido chega a uma realização integrada.",
+      "extended_meaning": "A figura dança suspensa dentro de uma grinalda, cercada pelos quatro símbolos que representam os elementos e as forças reunidas em harmonia. Em leitura, esta carta marca a conclusão bem-sucedida de um processo longo — um projeto, uma etapa de vida, um objetivo perseguido com esforço real. Diferente de um final abrupto, aqui existe integração: as partes se uniram e fazem sentido como um todo coerente. Pode indicar formatura, finalização de um contrato, viagem significativa concluída ou simplesmente a sensação madura de que um capítulo está completo e bem resolvido. A carta também sugere que, encerrado esse ciclo, um novo começo (representado pelo Louco) já está a caminho.",
+      "symbolism": "Uma figura dança dentro de uma grinalda de louros, cercada pelos quatro símbolos fixos que representam a totalidade dos elementos reunidos em harmonia final.",
+      "element": "Saturno",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_ace",
+      "keywords": [
+        "novo impulso criativo",
+        "potencial de acao",
+        "centelha inicial",
+        "energia disponivel"
+      ],
+      "concise_meaning": "Uma nova energia criativa surge, pronta para se tornar ação concreta.",
+      "extended_meaning": "O Ás de Paus é a centelha bruta de um novo empreendimento: entusiasmo, energia física e vontade de agir antes mesmo de haver um plano completo. Indica o início possível de um projeto, uma paixão criativa ou um impulso empreendedor que vale a pena seguir enquanto o ânimo está fresco. No trabalho, sugere iniciar algo que exige coragem inicial; no campo pessoal, pode indicar atração ou entusiasmo recém-descoberto. É preciso agir logo, pois a energia do Ás tende a se dissipar se ficar apenas na intenção.",
+      "symbolism": "Uma mão emerge das nuvens segurando um bastão brotando folhas, símbolo de vida nova crescendo a partir de matéria bruta. As folhas indicam potencial de crescimento real, não apenas ideia abstrata.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_02",
+      "keywords": [
+        "planejamento ousado",
+        "visao de futuro",
+        "primeira decisao expansiva",
+        "olhar para alem do conhecido"
+      ],
+      "concise_meaning": "Depois do impulso inicial, chega o momento de planejar o próximo passo com visão mais ampla.",
+      "extended_meaning": "Com o globo nas mãos, a figura observa o horizonte a partir de um lugar seguro, avaliando para onde expandir a energia já conquistada. Esta carta indica planejamento estratégico depois de um primeiro sucesso: decidir entre ficar no território conhecido ou arriscar uma expansão maior. Pode surgir quando alguém pondera uma mudança de cidade, um novo mercado de trabalho ou a ampliação de um projeto pessoal. É uma carta de visão de longo prazo, não de ação imediata — o convite é pensar grande antes de dar o próximo passo.",
+      "symbolism": "A figura no castelo segura um pequeno globo, olhando para o mar a partir de uma posição de poder já estabelecido, sugerindo ambição que parte de uma base segura.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_03",
+      "keywords": [
+        "expansao em andamento",
+        "espera confiante",
+        "comercio e trocas",
+        "primeiros resultados a caminho"
+      ],
+      "concise_meaning": "Os planos já estão em movimento; agora é hora de aguardar com confiança os primeiros resultados.",
+      "extended_meaning": "A figura observa navios partirem no horizonte, tendo já investido esforço e recursos em uma direção clara. Esta carta indica que uma fase de expansão está em andamento — parcerias, negócios ou projetos que dependem de fatores externos para amadurecer. É um momento de espera ativa, não passiva: continuar monitorando e ajustando enquanto os resultados se aproximam. Pode surgir em contextos de comércio, viagens de trabalho ou colaborações que começam a dar frutos. A paciência aqui é estratégica, sustentada pela confiança de que o trabalho inicial foi bem-feito.",
+      "symbolism": "Três bastões fincados no chão emolduram a figura que observa embarcações ao longe, numa cena de comércio e expansão territorial em curso.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_04",
+      "keywords": [
+        "celebracao merecida",
+        "estabilidade festiva",
+        "marco alcancado",
+        "comunidade que acolhe"
+      ],
+      "concise_meaning": "Uma conquista importante é celebrada em comunidade, marcando um momento de estabilidade merecida.",
+      "extended_meaning": "Guirlandas de flores decoram quatro bastões enquanto figuras celebram ao fundo, numa cena de festa e reunião. Esta carta costuma indicar celebrações reais — casamentos, formaturas, mudanças de casa — ou simplesmente a sensação de ter alcançado um patamar estável depois de esforço sustentado. É um convite para reconhecer o próprio progresso junto de quem importa, em vez de seguir direto para o próximo objetivo sem pausar. Pode surgir também em contextos de vida doméstica harmoniosa ou pertencimento a uma comunidade acolhedora.",
+      "symbolism": "Uma estrutura de bastões enfeitados com flores forma um portal de boas-vindas, atrás do qual pessoas dançam e celebram em conjunto.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_05",
+      "keywords": [
+        "competicao saudavel",
+        "conflito de opinioes",
+        "disputa sem malicia real",
+        "energias dispersas"
+      ],
+      "concise_meaning": "Divergências de opinião geram atrito, mas a disputa em si pode ser produtiva se bem conduzida.",
+      "extended_meaning": "Cinco figuras brandem bastões em direções desencontradas, num confronto que parece mais desorganizado do que verdadeiramente hostil. Esta carta indica conflitos de opinião, competição no trabalho ou discussões em grupo onde ninguém está realmente tentando ferir o outro, mas a falta de alinhamento gera atrito. Pode ser produtivo se canalizado como debate saudável; torna-se desgastante se vira disputa de ego sem propósito. Sugere buscar um objetivo comum que unifique as energias dispersas em vez de deixar cada um puxar para um lado diferente.",
+      "symbolism": "As figuras seguram os bastões em ângulos distintos, sem golpes diretos entre si, sugerindo confusão e disputa mais do que violência real.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_06",
+      "keywords": [
+        "reconhecimento publico",
+        "vitoria visivel",
+        "confianca conquistada",
+        "lideranca reconhecida"
+      ],
+      "concise_meaning": "Um esforço bem conduzido recebe reconhecimento público e reforça a confiança para seguir liderando.",
+      "extended_meaning": "Um cavaleiro retorna vitorioso, aclamado por quem o cerca, com uma coroa de louros no bastão erguido. Esta carta indica sucesso reconhecido publicamente — uma conquista profissional celebrada, boas notícias esperadas há tempo ou a confirmação de que um esforço valeu a pena. Também fala sobre liderança bem recebida: quando alguém assume à frente de um grupo e é apoiado por isso. É importante, ao vivenciar essa vitória, manter humildade e continuar reconhecendo o esforço coletivo, não apenas o individual.",
+      "symbolism": "O cavaleiro avança em destaque sobre um cavalo branco, cercado por figuras a pé que erguem bastões em apoio, numa cena de desfile vitorioso.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_07",
+      "keywords": [
+        "posicao defensiva",
+        "persistencia sob pressao",
+        "manter terreno conquistado",
+        "enfrentar desafiantes"
+      ],
+      "concise_meaning": "É preciso defender com firmeza uma posição já conquistada, mesmo sob pressão de vários lados.",
+      "extended_meaning": "De um terreno elevado, a figura defende sua posição contra bastões que surgem por baixo, em desvantagem de visão mas não de determinação. Esta carta indica a necessidade de manter o que já foi conquistado diante de desafios ou críticas — concorrência no trabalho, questionamentos sobre uma decisão tomada ou a defesa de um espaço pessoal. Sugere persistência e coragem para não recuar diante da pressão, desde que a posição defendida realmente valha o esforço. Pode ser desgastante se o conflito se tornar constante, mas indica capacidade real de resistir.",
+      "symbolism": "A postura de pernas desalinhadas do defensor sugere terreno instável, e ainda assim ele segura a posição acima dos bastões adversários que sobem de baixo.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_08",
+      "keywords": [
+        "movimento rapido",
+        "noticias que chegam logo",
+        "aceleracao dos eventos",
+        "sem obstaculos no caminho"
+      ],
+      "concise_meaning": "Os acontecimentos ganham velocidade repentina; algo que estava parado começa a se mover rápido.",
+      "extended_meaning": "Oito bastões voam em paralelo pelo céu limpo, sem obstáculos visíveis em seu trajeto, sugerindo movimento rápido e direto. Esta carta costuma indicar notícias que chegam em breve, viagens decididas de última hora ou a aceleração repentina de um processo que estava travado. Depois de um período de espera, os eventos passam a se mover com pouca margem para hesitação. É um bom momento para agir rápido quando a oportunidade aparece, mas também pede atenção para não perder o controle diante da velocidade dos acontecimentos.",
+      "symbolism": "Os bastões cruzam o céu em trajetórias paralelas e ordenadas sobre uma paisagem aberta, sem qualquer figura humana os segurando — o movimento acontece por si.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_09",
+      "keywords": [
+        "resiliencia cautelosa",
+        "ultimo esforco",
+        "defesa apos desgaste",
+        "perseveranca quase no fim"
+      ],
+      "concise_meaning": "Mesmo cansado por desafios anteriores, ainda resta força suficiente para o último esforço necessário.",
+      "extended_meaning": "Um homem ferido, mas alerta, segura um bastão enquanto outros oito o cercam como uma cerca protetora, pronto para mais um confronto se necessário. Esta carta indica resiliência construída à custa de experiência difícil: a pessoa já enfrentou bastante, está cansada, mas não está derrotada e ainda tem reservas para o esforço final. Pode surgir perto da conclusão de um processo longo e desgastante, lembrando que vale a pena persistir mais um pouco antes de desistir. Também aponta para cautela justificada, aprendida à custa de experiências anteriores.",
+      "symbolism": "A bandagem na cabeça da figura mostra ferimentos de batalhas passadas, e sua postura vigilante indica prontidão apesar do cansaço visível.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_10",
+      "keywords": [
+        "sobrecarga",
+        "responsabilidade acumulada",
+        "fardo proximo do fim",
+        "carregar demais sozinho"
+      ],
+      "concise_meaning": "Um peso de responsabilidades acumuladas pesa bastante, mesmo perto da linha de chegada.",
+      "extended_meaning": "A figura caminha curvada sob o peso de dez bastões, quase sem conseguir ver o caminho à frente por causa da carga. Esta carta indica sobrecarga de responsabilidades — assumir mais tarefas do que seria saudável, ou insistir em carregar um fardo sozinho quando poderia pedir ajuda ou delegar parte dele. Muitas vezes surge perto do fim de um ciclo de esforço intenso, sinalizando exaustão que precisa ser reconhecida antes que vire desgaste crônico. É um convite a reavaliar o que realmente precisa ser carregado e o que pode ser deixado para trás.",
+      "symbolism": "A figura mal consegue ver por cima do amontoado de bastões que carrega, sugerindo excesso de carga voluntariamente assumida sem pausa para reavaliar.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_page",
+      "keywords": [
+        "mensageiro entusiasmado",
+        "curiosidade criativa",
+        "noticia inspiradora",
+        "aprendizado pela pratica"
+      ],
+      "concise_meaning": "Uma notícia ou ideia entusiasmante desperta curiosidade genuína para experimentar algo novo.",
+      "extended_meaning": "O Valete de Paus observa seu bastão com curiosidade franca, ainda aprendendo o que essa nova energia criativa pode realizar. Esta carta costuma indicar uma mensagem animadora, o início de um interesse criativo ou uma pessoa jovem (ou uma atitude jovem) explorando um projeto pela primeira vez com entusiasmo genuíno. Sugere aprender fazendo, sem medo de errar enquanto se testa uma ideia nova. Pode surgir quando alguém recebe um convite para começar algo estimulante, mas ainda sem experiência suficiente para prever todos os resultados.",
+      "symbolism": "A postura curiosa e as salamandras no traje do Valete remetem à familiaridade instintiva com o fogo criativo, mesmo sem domínio total sobre ele ainda.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_knight",
+      "keywords": [
+        "acao impulsiva",
+        "busca por aventura",
+        "entusiasmo acelerado",
+        "mudanca repentina de rumo"
+      ],
+      "concise_meaning": "Um impulso de ação decidida leva a mudanças rápidas, movido por entusiasmo mais do que por cautela.",
+      "extended_meaning": "O Cavaleiro de Paus parte em disparada, com pressa evidente, movido por paixão e vontade de agir antes que a oportunidade esfrie. Esta carta indica energia impulsiva e corajosa: uma mudança repentina, uma viagem decidida de última hora ou a disposição de assumir riscos por uma causa que empolga genuinamente. Pode ser muito produtiva quando a situação pede decisão rápida, mas arrisca gerar impaciência ou decisões precipitadas se não houver nenhuma pausa para avaliar consequências. Sugere agir com entusiasmo, mas sem perder de vista o destino final.",
+      "symbolism": "O cavalo empinado e a armadura incompleta do Cavaleiro sugerem pressa e disposição para agir antes de estar totalmente preparado.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_queen",
+      "keywords": [
+        "confianca calorosa",
+        "lideranca inspiradora",
+        "independencia criativa",
+        "carisma natural"
+      ],
+      "concise_meaning": "Confiança calorosa e independência genuína inspiram outras pessoas a agir também.",
+      "extended_meaning": "A Rainha de Paus senta-se com um girassol na mão e um gato aos pés, irradiando confiança calorosa e independência sem arrogância. Esta carta indica liderança inspiradora baseada em carisma genuíno e energia pessoal magnética, capaz de motivar outras pessoas apenas pelo exemplo. Sugere alguém (ou uma atitude) que age com autonomia, otimismo prático e disposição sincera para apoiar projetos e pessoas em quem acredita. Pode surgir quando é hora de assumir uma posição de liderança criativa com autenticidade, sem depender da aprovação alheia para seguir em frente.",
+      "symbolism": "O girassol voltado para a luz e o gato alerta aos pés da Rainha simbolizam vitalidade solar combinada com intuição atenta ao redor.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "wands_king",
+      "keywords": [
+        "visao empreendedora",
+        "lideranca decidida",
+        "carisma estrategico",
+        "ambicao madura"
+      ],
+      "concise_meaning": "Uma visão de longo prazo, sustentada por experiência e carisma, guia decisões ousadas com segurança.",
+      "extended_meaning": "O Rei de Paus senta-se com firmeza segurando seu bastão florido, unindo ambição com experiência prática acumulada ao longo do tempo. Esta carta indica liderança madura e decidida: alguém capaz de traçar uma visão ousada e efetivamente conduzi-la até a realização, inspirando confiança pela combinação de carisma e competência. Pode surgir em contextos empresariais, quando é hora de assumir responsabilidade estratégica sobre um projeto importante, ou representar a necessidade de agir com a mesma segurança que esse arquétipo transmite. O risco associado é o excesso de impulsividade disfarçado de confiança, quando a ambição ultrapassa o planejamento real.",
+      "symbolism": "As salamandras na cadeira do Rei, criaturas ligadas ao fogo na tradição simbólica, reforçam domínio total e confortável sobre a própria energia criativa.",
+      "element": "Fogo",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_ace",
+      "keywords": [
+        "abertura emocional",
+        "novo afeto",
+        "transbordamento de sentimento",
+        "inicio amoroso"
+      ],
+      "concise_meaning": "Um novo sentimento surge com intensidade, pronto para transbordar e ser compartilhado.",
+      "extended_meaning": "Uma mão emerge de uma nuvem oferecendo um cálice do qual a água transborda em cinco jatos, símbolo de emoção genuína e generosa. O Ás de Copas indica o início de um sentimento novo — apaixonar-se, reencontrar alegria, sentir empatia profunda por alguém ou reconectar-se com a própria espiritualidade. É uma carta de abertura emocional, favorável para começar relações ou aprofundar vínculos existentes. Sugere que o coração está disponível e receptivo, e que vale a pena expressar o que se sente em vez de guardar para si.",
+      "symbolism": "A pomba que desce em direção ao cálice remete a paz e afeto espiritual, enquanto a água transbordante indica emoção que não pode ser contida.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_02",
+      "keywords": [
+        "conexao mutua",
+        "parceria emocional",
+        "reciprocidade afetiva",
+        "harmonia entre duas pessoas"
+      ],
+      "concise_meaning": "Duas pessoas se encontram em conexão genuína e mutuamente correspondida.",
+      "extended_meaning": "Duas figuras trocam cálices em sinal de compromisso mútuo, com um caduceu alado pairando entre elas, símbolo de equilíbrio e cura na relação. Esta carta indica parceria emocional real — não apenas romântica, mas qualquer vínculo de reciprocidade genuína, como uma amizade próxima ou uma sociedade de confiança. Sugere que ambos os lados estão contribuindo igualmente para a relação, criando uma base sólida de respeito mútuo. Pode surgir no início de um namoro sério, na reconciliação entre pessoas afastadas ou no fortalecimento de uma parceria de trabalho.",
+      "symbolism": "O leão sobre a cabeça alada entre as figuras sugere paixão equilibrada pela sabedoria, reforçando a ideia de uma união saudável entre razão e sentimento.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_03",
+      "keywords": [
+        "celebracao entre amigos",
+        "alegria compartilhada",
+        "apoio comunitario",
+        "gratidao coletiva"
+      ],
+      "concise_meaning": "Amizades próximas se reúnem para celebrar algo bom, fortalecendo laços de apoio mútuo.",
+      "extended_meaning": "Três figuras erguem seus cálices em conjunto, dançando em celebração cercadas por frutas da colheita. Esta carta indica alegria compartilhada em comunidade: festas, reencontros, o apoio de amizades em um momento bom da vida. Sugere que o sucesso ou a felicidade presente ganham mais sentido quando compartilhados com pessoas queridas, em vez de vividos isoladamente. Pode surgir em celebrações reais como aniversários e formaturas, ou simplesmente indicar uma rede de apoio confiável disponível para comemorar junto.",
+      "symbolism": "As roupas coloridas e a dança em roda das três figuras remetem a festividades de colheita, reforçando fartura e gratidão coletiva.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_04",
+      "keywords": [
+        "insatisfacao apatica",
+        "oportunidade ignorada",
+        "tedio reflexivo",
+        "reavaliacao necessaria"
+      ],
+      "concise_meaning": "Uma sensação de apatia faz ignorar uma oportunidade que talvez merecesse mais atenção.",
+      "extended_meaning": "A figura sentada sob a árvore recusa, de braços cruzados, um cálice oferecido por uma mão que emerge de uma nuvem, absorta demais em seus próprios pensamentos para perceber a oferta. Esta carta indica um estado de tédio ou insatisfação que pode levar a ignorar boas oportunidades por puro cansaço emocional ou excesso de introspecção. Sugere parar e reavaliar: talvez algo valioso esteja sendo oferecido bem diante dos olhos, mas passe despercebido por apatia. É útil como alerta para sair do piloto automático emocional antes que uma chance importante escape.",
+      "symbolism": "Os três cálices já dispostos no chão diante da figura sugerem fartura anterior não totalmente apreciada, contrastando com a nova oferta ignorada.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_05",
+      "keywords": [
+        "luto por perda",
+        "foco no que faltou",
+        "ainda ha o que preservar",
+        "tristeza que nao ve tudo"
+      ],
+      "concise_meaning": "Uma perda dói de verdade, mas ainda restam recursos valiosos que a tristeza momentânea não deixa ver.",
+      "extended_meaning": "A figura de capa preta chora diante de três cálices derramados, sem perceber os dois cálices intactos logo atrás de si. Esta carta reconhece uma dor genuína — uma perda, uma decepção, um arrependimento — sem minimizá-la, mas chama atenção para o fato de que nem tudo foi perdido, mesmo que o luto torne isso difícil de enxergar no momento. Sugere permitir-se sentir a tristeza plenamente, mas sem esquecer que ainda existem recursos e possibilidades disponíveis para reconstruir a partir daqui. É útil em processos de luto, término de relação ou arrependimento sobre uma escolha passada.",
+      "symbolism": "A ponte ao fundo da cena sugere que existe um caminho de travessia disponível, mesmo que a figura de costas ainda não o tenha percebido.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_06",
+      "keywords": [
+        "nostalgia afetuosa",
+        "memorias da infancia",
+        "reencontro gentil",
+        "conforto do passado"
+      ],
+      "concise_meaning": "Memórias afetuosas do passado trazem conforto e podem indicar um reencontro gentil.",
+      "extended_meaning": "Duas crianças trocam cálices cheios de flores num ambiente que remete à infância e a lembranças simples e boas. Esta carta indica nostalgia saudável — lembrar de tempos mais simples, reconectar-se com amigos de longa data ou encontrar conforto em tradições familiares. Pode sinalizar o retorno de alguém do passado à vida presente, de forma positiva, ou o desejo de recuperar uma simplicidade que parece ter se perdido na rotina adulta. É importante, porém, não usar a nostalgia como fuga permanente do presente, mas como fonte de calor emocional para seguir em frente.",
+      "symbolism": "O cenário de jardim e as figuras infantis remetem a uma época mais protegida, reforçando conforto emocional ligado à memória.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_07",
+      "keywords": [
+        "fantasias multiplas",
+        "opcoes ilusorias",
+        "escolha adiada por excesso",
+        "confusao de desejos"
+      ],
+      "concise_meaning": "Muitas possibilidades atraentes se apresentam ao mesmo tempo, mas nem todas são tão reais quanto parecem.",
+      "extended_meaning": "Uma figura observa sete cálices flutuando em nuvens, cada um contendo uma imagem diferente — um castelo, uma joia, uma serpente — representando desejos e fantasias diversas. Esta carta indica um momento de excesso de opções ou promessas atraentes, onde é fácil se perder sonhando em vez de escolher com clareza o que é realmente viável. Sugere cautela antes de se comprometer com a primeira fantasia sedutora, avaliando o que de fato é sustentável a longo prazo. Pode surgir quando alguém enfrenta múltiplas propostas de trabalho, relacionamentos ou caminhos de vida sem conseguir definir prioridades.",
+      "symbolism": "As imagens dentro de cada cálice variam entre tesouros e ameaças veladas, sugerindo que nem toda fantasia atraente é o que parece à primeira vista.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_08",
+      "keywords": [
+        "afastamento consciente",
+        "busca por mais significado",
+        "deixar algo confortavel para tras",
+        "jornada interior"
+      ],
+      "concise_meaning": "É hora de deixar para trás algo confortável, mas incompleto, em busca de um significado maior.",
+      "extended_meaning": "A figura se afasta, à noite, de oito cálices cuidadosamente empilhados, caminhando em direção às montanhas em busca de algo mais profundo. Esta carta indica a decisão consciente de abandonar uma situação que, apesar de estável ou bem-sucedida na aparência, já não satisfaz emocional ou espiritualmente. Sugere coragem para seguir em frente mesmo sem garantias, motivado pela sensação de que há algo mais significativo a buscar. Pode surgir em mudanças de carreira, término de relações confortáveis mas vazias, ou uma busca espiritual que exige deixar conforto material para trás.",
+      "symbolism": "O eclipse ao fundo reforça a ideia de transição silenciosa, uma mudança que acontece sem alarde mas com peso simbólico real.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_09",
+      "keywords": [
+        "satisfacao pessoal",
+        "desejo realizado",
+        "conforto merecido",
+        "contentamento genuino"
+      ],
+      "concise_meaning": "Um desejo importante se realiza, trazendo satisfação genuína e sensação de conforto merecido.",
+      "extended_meaning": "A figura sentada, cercada por nove cálices dispostos em arco atrás de si, transmite satisfação tranquila com o que foi conquistado. Esta carta costuma indicar realização de um desejo pessoal significativo — bem-estar material, reconhecimento ou simplesmente a sensação de estar contente com a própria vida no momento presente. É associada popularmente à ideia de um pedido concedido, mas o cuidado aqui é não confundir satisfação genuína com complacência vazia. Convém aproveitar o momento de contentamento com gratidão, mantendo os pés no chão quanto ao que realmente sustenta esse bem-estar.",
+      "symbolism": "A postura confiante de braços cruzados e o arranjo simétrico dos cálices sugerem estabilidade emocional conquistada com esforço prévio.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_10",
+      "keywords": [
+        "felicidade familiar",
+        "harmonia duradoura",
+        "realizacao emocional plena",
+        "vida compartilhada em paz"
+      ],
+      "concise_meaning": "Uma sensação de felicidade compartilhada e harmonia familiar marca um momento de plenitude emocional.",
+      "extended_meaning": "Um casal celebra sob um arco-íris de dez cálices enquanto crianças brincam ao lado, numa cena de harmonia familiar completa. Esta é uma das cartas mais positivas do naipe de Copas, indicando realização emocional plena — vida doméstica estável, relações harmoniosas e a sensação de que o esforço emocional investido ao longo do tempo finalmente floresceu em bem-estar compartilhado. Pode surgir em contextos de casamento, reconciliação familiar duradoura ou simplesmente a confirmação de que os vínculos mais próximos estão saudáveis. É um lembrete de que a felicidade mais profunda costuma ser compartilhada, não solitária.",
+      "symbolism": "O arco-íris formado pelos cálices conecta o céu à cena familiar embaixo, sugerindo bênção e continuidade entre gerações.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_page",
+      "keywords": [
+        "sensibilidade criativa",
+        "mensagem afetuosa",
+        "abertura emocional gentil",
+        "criatividade em formacao"
+      ],
+      "concise_meaning": "Uma mensagem ou inspiração afetuosa chega de forma gentil e inesperada.",
+      "extended_meaning": "O Valete de Copas observa um peixe que emerge de seu cálice, símbolo de inspiração criativa surgindo de forma surpreendente e delicada. Esta carta costuma indicar uma notícia afetuosa, o despertar de sensibilidade artística ou uma pessoa (ou atitude) jovem e emocionalmente aberta, ainda aprendendo a lidar com sentimentos intensos. Sugere receptividade a mensagens do inconsciente — sonhos, intuições, ideias criativas repentinas — que merecem atenção mesmo que pareçam pouco convencionais à primeira vista.",
+      "symbolism": "O peixe saindo do cálice, como se falasse com o Valete, sugere comunicação entre o consciente e o imaginativo, típica de fases criativas iniciais.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_knight",
+      "keywords": [
+        "romantismo idealista",
+        "proposta emocional",
+        "busca inspirada por um ideal",
+        "gentileza em movimento"
+      ],
+      "concise_meaning": "Uma proposta ou gesto emocional idealista se aproxima, movido por intenções genuinamente afetuosas.",
+      "extended_meaning": "O Cavaleiro de Copas avança em ritmo calmo, oferecendo seu cálice como quem traz uma proposta romântica ou criativa cheia de idealismo sincero. Esta carta indica alguém (ou uma atitude) movido por sentimentos elevados — um convite amoroso, uma proposta artística ou um gesto de reconciliação feito com boas intenções. Sugere seguir o coração com cuidado, aproveitando a inspiração genuína desse momento, mas sem perder de vista se a promessa tem base real para se sustentar depois do entusiasmo inicial.",
+      "symbolism": "O cavalo branco em passo lento, em vez de galope, reforça que esta é uma energia de aproximação gentil, não de urgência ou impulsividade.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_queen",
+      "keywords": [
+        "empatia profunda",
+        "intuicao emocional",
+        "cuidado compassivo",
+        "sensibilidade madura"
+      ],
+      "concise_meaning": "Empatia profunda e intuição emocional guiam decisões com sensibilidade madura e cuidado genuíno.",
+      "extended_meaning": "A Rainha de Copas contempla um cálice ornamentado com atenção profunda, representando sensibilidade emocional madura e intuição bem desenvolvida. Esta carta indica alguém (ou uma atitude) capaz de acolher os sentimentos dos outros com compaixão genuína, sem se perder na própria emoção. Sugere confiar na intuição para tomar decisões importantes, especialmente em questões afetivas ou de cuidado com outras pessoas. Pode surgir quando é necessário oferecer apoio emocional a alguém ou quando a própria sensibilidade merece mais espaço e validação.",
+      "symbolism": "O cálice fechado que a Rainha observa, diferente dos cálices abertos de outras cartas, sugere profundidade emocional guardada com discernimento.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "cups_king",
+      "keywords": [
+        "equilibrio emocional maduro",
+        "diplomacia serena",
+        "autocontrole compassivo",
+        "sabedoria afetiva"
+      ],
+      "concise_meaning": "Equilíbrio emocional maduro permite lidar com situações delicadas com serenidade e diplomacia.",
+      "extended_meaning": "O Rei de Copas mantém-se estável sobre um trono em meio a um mar agitado, mostrando domínio emocional maduro mesmo em circunstâncias turbulentas. Esta carta indica alguém (ou uma atitude) capaz de equilibrar sentimento e responsabilidade, oferecendo conselhos ponderados sem se deixar levar por reações impulsivas. Sugere lidar com conflitos emocionais complexos com diplomacia e serenidade, sendo um porto seguro para outras pessoas em momentos difíceis. Pode indicar liderança compassiva em contexto profissional ou familiar, sustentada por maturidade emocional real.",
+      "symbolism": "O mar revolto ao fundo, em contraste com a postura estável do Rei sobre seu trono flutuante, simboliza controle emocional apesar da turbulência ao redor.",
+      "element": "Agua",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_ace",
+      "keywords": [
+        "clareza mental",
+        "verdade cortante",
+        "nova ideia decisiva",
+        "ruptura de confusao"
+      ],
+      "concise_meaning": "Uma ideia clara corta a confusão anterior, trazendo decisão mental afiada.",
+      "extended_meaning": "Uma mão emerge das nuvens segurando uma espada erguida, coroada por uma grinalda de louro e palma, símbolo de vitória mental através da clareza. O Ás de Espadas indica um momento de discernimento afiado: uma verdade que se impõe, uma decisão importante tomada com lucidez ou o início de uma nova forma de pensar sobre um problema antigo. Pode ser desconfortável, pois a clareza às vezes revela algo que preferíamos não ver, mas costuma abrir caminho para ação mais eficaz. Sugere confiar na razão para cortar através de uma situação confusa.",
+      "symbolism": "A coroa suspensa acima da espada simboliza a vitória que a mente alcança quando pensa com honestidade, mesmo que o processo seja difícil.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_02",
+      "keywords": [
+        "decisao adiada",
+        "equilibrio tenso",
+        "impasse emocional",
+        "escolha evitada"
+      ],
+      "concise_meaning": "Uma decisão importante é adiada por medo de escolher errado, mantendo um equilíbrio tenso e temporário.",
+      "extended_meaning": "A figura de olhos vendados segura duas espadas cruzadas diante do peito, num equilíbrio deliberadamente artificial que evita encarar a escolha necessária. Esta carta indica um impasse: alguém sabe que precisa decidir algo, mas evita fazê-lo por medo das consequências de qualquer uma das opções. Sugere que a venda nos olhos é escolhida, não imposta — a pessoa está, de certa forma, recusando ver claramente para não precisar agir. Pode ser útil como convite a retirar a venda e enfrentar a decisão, mesmo que isso rompa o equilíbrio confortável atual.",
+      "symbolism": "O mar agitado atrás da figura, visível apesar da venda nos olhos, sugere que emoções reais continuam presentes mesmo quando ignoradas conscientemente.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_03",
+      "keywords": [
+        "dor emocional clara",
+        "desilusao",
+        "coracao ferido por uma verdade",
+        "luto necessario"
+      ],
+      "concise_meaning": "Uma verdade dolorosa fere o coração, mas a dor é clara o suficiente para permitir cura futura.",
+      "extended_meaning": "Três espadas atravessam um coração vermelho sob um céu chuvoso, imagem direta de dor emocional causada por uma verdade difícil de aceitar — uma traição, uma decepção amorosa ou uma notícia triste. Esta carta não suaviza a dor, mas também não a exagera: a clareza da ferida é o que permite, com o tempo, processá-la e seguir em frente. Sugere permitir-se sentir a tristeza sem negá-la, reconhecendo que o sofrimento presente tem uma causa real e específica, o que ajuda a curá-la de forma mais direta.",
+      "symbolism": "A chuva ao fundo reforça a atmosfera de tristeza, enquanto o coração perfurado de forma limpa e central mostra dor honesta, sem ambiguidade.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_04",
+      "keywords": [
+        "descanso necessario",
+        "pausa para recuperar",
+        "recolhimento apos esforco",
+        "silencio restaurador"
+      ],
+      "concise_meaning": "Depois de esforço ou conflito, um período de descanso silencioso é necessário para recuperar as forças.",
+      "extended_meaning": "Uma figura repousa deitada, como em recolhimento contemplativo, com três espadas suspensas na parede acima e uma abaixo do leito. Esta carta indica a necessidade de pausa: descansar depois de um esforço mental ou emocional intenso, se recolher para recuperar clareza, ou simplesmente conceder a si mesmo um tempo de silêncio antes de retomar as atividades. Não representa desistência, mas recuperação estratégica. Pode surgir quando alguém insiste em continuar sem descanso, sinalizando que a pausa é parte necessária do processo, não um desvio dele.",
+      "symbolism": "A postura de repouso semelhante a uma efígie tumular sugere retiro deliberado do mundo, um intervalo para restaurar energia mental.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_05",
+      "keywords": [
+        "vitoria vazia",
+        "conflito com custo alto",
+        "desarmonia apos disputa",
+        "preco da razao a qualquer custo"
+      ],
+      "concise_meaning": "Uma vitória obtida a qualquer custo deixa um gosto amargo e prejudica relações no processo.",
+      "extended_meaning": "A figura recolhe espadas alheias enquanto outros se afastam derrotados e cabisbaixos, numa vitória que parece mais vazia do que gloriosa. Esta carta indica conflitos vencidos de forma que prejudica relacionamentos — ganhar uma discussão perdendo o respeito de alguém, ou insistir em estar certo a um custo emocional alto demais. Sugere refletir se vale a pena continuar competindo dessa forma, ou se é hora de buscar reconciliação em vez de mais uma vitória isolada. Pode surgir em disputas de trabalho ou familiares onde ninguém realmente sai ganhando de verdade.",
+      "symbolism": "O céu turbulento ao fundo e as figuras que se afastam cabisbaixas mostram que a disputa deixou marcas, apesar da vitória aparente.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_06",
+      "keywords": [
+        "transicao gradual",
+        "deixar dificuldades para tras",
+        "travessia calma",
+        "mudanca de ambiente necessaria"
+      ],
+      "concise_meaning": "Uma travessia calma para águas mais tranquilas deixa dificuldades anteriores para trás aos poucos.",
+      "extended_meaning": "Um barqueiro conduz uma figura e uma criança por águas calmas, deixando para trás águas mais agitadas, carregando seis espadas cravadas na embarcação. Esta carta indica transição gradual: sair de uma situação difícil rumo a algo mais estável, mesmo que o processo ainda carregue o peso das dificuldades passadas. Pode indicar uma mudança física (mudança de cidade, de emprego) ou emocional (deixar para trás uma fase de conflito). Sugere que a travessia, embora não instantânea, está de fato levando a águas mais tranquilas.",
+      "symbolism": "A água calma à frente do barco, em contraste com a agitação atrás, simboliza melhora progressiva à medida que a travessia avança.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_07",
+      "keywords": [
+        "estrategia discreta",
+        "acao dissimulada",
+        "risco calculado",
+        "atalho questionavel"
+      ],
+      "concise_meaning": "Uma estratégia discreta, talvez arriscada ou dissimulada, é usada para conseguir vantagem sem enfrentamento direto.",
+      "extended_meaning": "Uma figura se afasta furtivamente de um acampamento carregando cinco espadas, deixando duas para trás, num gesto ambíguo entre esperteza e deslealdade. Esta carta indica estratégias indiretas: contornar um obstáculo através de discrição, negociar por meios não totalmente transparentes, ou agir sozinho em vez de contar com apoio do grupo. Pode ser um alerta sobre a necessidade de avaliar se um atalho vale o risco de confiança quebrada, ou simplesmente indicar a necessidade de mais autonomia estratégica diante de uma situação complicada.",
+      "symbolism": "O olhar por cima do ombro da figura, ao se afastar do acampamento, sugere consciência do próprio risco ao agir dessa forma dissimulada.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_08",
+      "keywords": [
+        "sensacao de aprisionamento",
+        "limitacao autoimposta",
+        "medo paralisante",
+        "saida possivel nao percebida"
+      ],
+      "concise_meaning": "Uma sensação de estar preso paralisa a ação, embora existam saídas possíveis que ainda não foram percebidas.",
+      "extended_meaning": "A figura amarrada e vendada está cercada por oito espadas fincadas ao redor, mas o espaço entre elas sugere que a saída é mais possível do que parece à primeira vista. Esta carta indica sensação de aprisionamento — por medo, por autocrítica excessiva ou por uma situação que parece sem saída — que muitas vezes é mais autoimposta do que real. Sugere que o primeiro passo para sair da paralisia é reconhecer que a limitação vem em parte da própria mente, e que buscar ajuda ou reavaliar a situação pode revelar caminhos antes invisíveis.",
+      "symbolism": "O terreno lamacento sob os pés descalços da figura reforça desconforto e vulnerabilidade, mas a venda nos olhos, removível, é o detalhe central da carta.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_09",
+      "keywords": [
+        "ansiedade noturna",
+        "preocupacao excessiva",
+        "insonia mental",
+        "medo maior do que a realidade"
+      ],
+      "concise_meaning": "Preocupações noturnas e ansiedade tomam proporções maiores do que a situação real costuma justificar.",
+      "extended_meaning": "Uma figura senta-se na cama, cabeça nas mãos, diante de nove espadas na parede, numa cena de angústia e insônia. Esta carta indica ansiedade intensa, muitas vezes noturna, provocada por preocupações que crescem na mente mais do que se justificariam pelos fatos concretos. Sugere buscar apoio para conversar sobre esses medos, e diferenciar entre preocupação útil e ruminação exagerada que apenas desgasta sem resolver nada. Pode surgir em períodos de estresse intenso, insônia ou culpa excessiva sobre algo que talvez precise apenas ser encarado com mais racionalidade.",
+      "symbolism": "O painel esculpido na base da cama, mostrando uma figura vencendo outra em combate, contrasta com o desespero da figura na cama, sugerindo que a superação também é possível.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_10",
+      "keywords": [
+        "fim doloroso mas definitivo",
+        "ponto mais baixo superado",
+        "encerramento sem volta",
+        "renovacao apos o pior momento"
+      ],
+      "concise_meaning": "Um ciclo difícil chega ao seu ponto mais baixo, mas justamente por isso não pode piorar — só recomeçar.",
+      "extended_meaning": "Uma figura jaz no chão com dez espadas cravadas nas costas, sob um céu que começa a clarear no horizonte, indicando o fim de um ciclo particularmente doloroso. Esta carta representa um encerramento definitivo e difícil — uma traição, um fracasso ou uma perda que parece o pior cenário possível. Ainda assim, o amanhecer ao fundo sugere que, justamente por ser o ponto mais baixo, o único caminho possível a partir daqui é a recuperação. Não é uma carta de esperança imediata, mas reconhece que a dor extrema, uma vez vivida por completo, abre caminho para reconstrução real.",
+      "symbolism": "O céu dourado clareando no horizonte, apesar da cena sombria em primeiro plano, é o detalhe que transforma esta carta de desespero total em fim de ciclo com renovação implícita.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_page",
+      "keywords": [
+        "curiosidade vigilante",
+        "mente afiada em formacao",
+        "noticia que exige atencao",
+        "observacao atenta"
+      ],
+      "concise_meaning": "Uma mente curiosa e vigilante observa o entorno em busca de informação nova, ainda aprendendo a usá-la bem.",
+      "extended_meaning": "O Valete de Espadas segura sua espada em alerta, olhando ao redor com atenção vigilante, ainda desenvolvendo a habilidade de usar a mente com precisão. Esta carta indica curiosidade intelectual aguçada, disposição para investigar algo a fundo ou uma notícia que exige atenção redobrada. Pode representar uma pessoa (ou atitude) jovem, observadora e comunicativa, mas ainda aprendendo a dosar a franqueza com tato. Sugere manter os olhos abertos para informações importantes que estão surgindo, mesmo que ainda não estejam completamente claras.",
+      "symbolism": "O vento forte que move as nuvens e a grama ao redor do Valete sugere um ambiente mental agitado, exigindo atenção constante.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_knight",
+      "keywords": [
+        "acao direta e rapida",
+        "argumentacao assertiva",
+        "determinacao mental",
+        "pressa por resolver logo"
+      ],
+      "concise_meaning": "Uma ação direta e assertiva busca resolver rapidamente uma questão, priorizando velocidade sobre cautela.",
+      "extended_meaning": "O Cavaleiro de Espadas avança em galope acelerado, espada erguida, movido por determinação mental intensa e pressa em resolver algo rapidamente. Esta carta indica ação decidida e direta, útil quando é preciso agir com assertividade e sem rodeios diante de um problema. O risco é a impaciência: avançar rápido demais pode significar negligenciar detalhes importantes ou atropelar sentimentos alheios em nome da eficiência. Sugere equilibrar a urgência genuína com atenção mínima às consequências da pressa.",
+      "symbolism": "As nuvens e árvores curvadas pelo vento na direção oposta ao avanço do cavalo reforçam a sensação de movimento contra a resistência do ambiente.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_queen",
+      "keywords": [
+        "clareza direta",
+        "independencia intelectual",
+        "franqueza sem rodeios",
+        "discernimento apos a dor"
+      ],
+      "concise_meaning": "Clareza direta e independência intelectual permitem enxergar uma situação sem ilusões nem rodeios.",
+      "extended_meaning": "A Rainha de Espadas senta-se com postura ereta, espada erguida e mão estendida, transmitindo franqueza e discernimento conquistados muitas vezes através de experiência difícil. Esta carta indica alguém (ou uma atitude) capaz de ver uma situação com clareza objetiva e comunicar isso sem rodeios nem falsas ilusões. Sugere valorizar a honestidade direta, mesmo quando desconfortável, e confiar no próprio julgamento independente em vez de se deixar levar apenas pela opinião alheia. Pode surgir quando é necessário tomar uma posição clara baseada em experiência real, não em otimismo ingênuo.",
+      "symbolism": "A única nuvem no céu atrás do trono da Rainha sugere clareza mental predominante, com apenas um resquício de dificuldade emocional passada.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "swords_king",
+      "keywords": [
+        "autoridade racional",
+        "julgamento imparcial",
+        "comunicacao precisa",
+        "logica aplicada com etica"
+      ],
+      "concise_meaning": "Autoridade baseada em julgamento racional e imparcial conduz decisões com precisão e responsabilidade ética.",
+      "extended_meaning": "O Rei de Espadas senta-se com a espada empunhada em posição vertical e olhar direto, representando autoridade baseada em raciocínio claro e imparcialidade. Esta carta indica liderança que usa a lógica e a experiência para tomar decisões justas, sendo firme na comunicação sem deixar de considerar princípios éticos. Sugere buscar julgamento imparcial em uma questão complexa, apoiando-se em fatos e experiência acumulada em vez de reações emocionais. Pode representar a necessidade de assumir uma posição de autoridade racional em um contexto profissional ou legal.",
+      "symbolism": "A postura frontal e simétrica do Rei, com a espada perfeitamente centralizada, reforça a ideia de equilíbrio entre poder e responsabilidade racional.",
+      "element": "Ar",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_ace",
+      "keywords": [
+        "oportunidade concreta",
+        "novo recurso material",
+        "semente de prosperidade",
+        "estabilidade em formacao"
+      ],
+      "concise_meaning": "Uma oportunidade concreta surge, com potencial real de crescimento material sustentável.",
+      "extended_meaning": "Uma mão emerge das nuvens segurando um disco dourado sobre um jardim florescente, símbolo de uma oportunidade material sólida e promissora. O Ás de Ouros indica o início de algo concreto: uma nova fonte de renda, um investimento promissor, uma oferta de emprego ou o começo de um projeto com potencial real de crescimento estável. Diferente de outros ases mais abstratos, este fala de resultados tangíveis e práticos. Sugere aproveitar bem essa oportunidade inicial, cuidando dela com atenção para que possa florescer plenamente com o tempo.",
+      "symbolism": "O caminho que atravessa o jardim floreado em direção às montanhas ao fundo sugere que esta oportunidade concreta pode levar a crescimento de longo prazo se bem cultivada.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_02",
+      "keywords": [
+        "equilibrio entre prioridades",
+        "malabarismo produtivo",
+        "adaptabilidade financeira",
+        "gerenciamento de multiplas tarefas"
+      ],
+      "concise_meaning": "Duas ou mais prioridades exigem equilíbrio simultâneo, pedindo adaptabilidade e bom senso prático.",
+      "extended_meaning": "Uma figura equilibra dois discos conectados por uma fita em forma de infinito, dançando com leveza apesar dos navios que balançam no mar ao fundo. Esta carta indica a necessidade de equilibrar múltiplas responsabilidades — finanças, trabalho, tempo pessoal — com flexibilidade e bom humor, mesmo diante de instabilidade externa. Sugere que é possível lidar bem com essa multiplicidade se houver adaptabilidade e organização, embora exija atenção constante para não deixar nenhuma prioridade cair. Pode surgir em períodos de múltiplos compromissos financeiros ou profissionais simultâneos.",
+      "symbolism": "O símbolo do infinito formado pela fita entre os discos reforça a ideia de fluxo contínuo entre prioridades que exigem atenção alternada, não simultânea impossível.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_03",
+      "keywords": [
+        "trabalho em equipe",
+        "colaboracao qualificada",
+        "reconhecimento por competencia",
+        "construcao conjunta"
+      ],
+      "concise_meaning": "Um trabalho bem executado em colaboração com outras pessoas qualificadas traz reconhecimento merecido.",
+      "extended_meaning": "Um artesão discute plantas arquitetônicas com dois colaboradores dentro de uma catedral em construção, numa cena de trabalho colaborativo qualificado. Esta carta indica projetos que avançam bem quando há cooperação entre pessoas competentes, cada uma contribuindo com sua especialidade. Sugere valorizar o trabalho em equipe e buscar reconhecimento pela qualidade técnica de algo construído com cuidado, não apenas pela rapidez. Pode surgir em contextos profissionais que exigem parceria qualificada, como um projeto criativo, uma reforma ou uma colaboração acadêmica.",
+      "symbolism": "A escala do ambiente catedralício ao redor das três figuras sugere que o resultado final desse trabalho colaborativo será maior do que a soma das partes individuais.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_04",
+      "keywords": [
+        "controle financeiro rigido",
+        "apego a seguranca material",
+        "resistencia a mudanca",
+        "conservadorismo protetor"
+      ],
+      "concise_meaning": "Um controle rígido sobre recursos materiais protege contra perdas, mas também pode limitar novas possibilidades.",
+      "extended_meaning": "A figura segura firmemente um disco sobre o peito, outro na cabeça e dois sob os pés, numa postura fechada e protetora. Esta carta indica cautela financeira que pode se tornar excessiva: guardar recursos com segurança é sensato, mas apegar-se demais ao controle pode impedir novas oportunidades de crescimento ou generosidade saudável. Sugere avaliar se o controle atual sobre dinheiro, posses ou até relacionamentos vem de prudência real ou de medo de perder o que já foi conquistado. Pode surgir quando é hora de soltar um pouco o controle para permitir movimento novo.",
+      "symbolism": "A postura rígida e fechada da figura, sem contato visual com o observador, reforça a ideia de proteção defensiva em vez de prosperidade fluida.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_05",
+      "keywords": [
+        "dificuldade material",
+        "sensacao de exclusao",
+        "ajuda disponivel nao vista",
+        "perseveranca em tempos dificeis"
+      ],
+      "concise_meaning": "Um período de dificuldade material ou emocional traz sensação de exclusão, mas ajuda pode estar mais perto do que parece.",
+      "extended_meaning": "Duas figuras cansadas caminham na neve diante de uma vitrine iluminada de uma igreja, sem perceber a porta aberta logo atrás delas. Esta carta indica um momento difícil — financeiro, de saúde ou de pertencimento social — em que a pessoa se sente excluída ou desamparada. Sugere, no entanto, que existe apoio disponível (comunidade, recursos, ajuda) que ainda não foi percebido ou aceito por orgulho, vergonha ou desânimo. É um lembrete de que perseverar durante tempos difíceis, buscando ajuda em vez de isolamento, tende a abreviar o sofrimento.",
+      "symbolism": "A porta acesa da igreja, visível mas ignorada pelas figuras em primeiro plano, é o detalhe central que transforma esta cena de desamparo em uma cena de ajuda disponível não percebida.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_06",
+      "keywords": [
+        "generosidade equilibrada",
+        "troca justa de recursos",
+        "apoio mutuo",
+        "dar e receber com equidade"
+      ],
+      "concise_meaning": "Uma troca justa de recursos entre quem tem mais e quem precisa reforça um ciclo saudável de generosidade.",
+      "extended_meaning": "Um comerciante distribui moedas para duas figuras necessitadas, segurando uma balança que representa distribuição equilibrada, não caridade condescendente. Esta carta indica generosidade bem exercida — ajudar alguém de forma equilibrada, ou receber apoio de quem está em posição de oferecê-lo, sem culpa nem soberba. Sugere avaliar o próprio papel numa relação de troca: se está dando ou recebendo de forma justa e sustentável, sem criar dependência ou ressentimento. Pode surgir em contextos de doação, empréstimo entre amigos ou negociações comerciais equilibradas.",
+      "symbolism": "A balança segurada pelo comerciante ao distribuir moedas simboliza que a generosidade genuína pesa as necessidades reais de cada lado, não apenas a vontade de quem dá.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_07",
+      "keywords": [
+        "avaliacao paciente",
+        "colheita em andamento",
+        "investimento que exige tempo",
+        "reflexao sobre o progresso"
+      ],
+      "concise_meaning": "Um investimento de tempo e esforço já foi feito; agora é hora de avaliar com paciência os resultados até aqui.",
+      "extended_meaning": "Um agricultor observa uma trepadeira carregada de discos dourados, apoiado em sua enxada, avaliando se o trabalho até agora já rendeu frutos suficientes ou se ainda precisa de mais tempo. Esta carta indica um momento de pausa reflexiva no meio de um projeto de longo prazo — reavaliar se o esforço investido está no caminho certo antes de continuar ou ajustar a estratégia. Sugere paciência ativa: nem toda colheita está pronta no mesmo ritmo, e forçar a colheita cedo demais pode prejudicar o resultado final. Pode surgir em investimentos financeiros, projetos criativos longos ou metas pessoais de médio prazo.",
+      "symbolism": "A postura cansada mas atenta do agricultor, apoiado na ferramenta em vez de trabalhando ativamente, reforça o momento de avaliação e não de ação imediata.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_08",
+      "keywords": [
+        "dedicacao ao aprimoramento",
+        "pratica deliberada",
+        "foco no oficio",
+        "desenvolvimento de habilidade"
+      ],
+      "concise_meaning": "Prática dedicada e foco no aprimoramento de uma habilidade específica trazem resultados sólidos com o tempo.",
+      "extended_meaning": "Um artesão trabalha concentrado esculpindo discos idênticos, repetindo o processo com atenção total ao detalhe e à qualidade técnica. Esta carta indica dedicação séria ao desenvolvimento de uma habilidade — estudo focado, prática deliberada e disposição para repetir um processo até dominá-lo bem. Sugere que o domínio de uma competência importante vem menos de talento inato e mais de disciplina consistente aplicada ao longo do tempo. Pode surgir quando vale a pena investir em formação profissional, aperfeiçoar uma técnica específica ou simplesmente reconhecer o valor do trabalho artesanal bem-feito.",
+      "symbolism": "Os discos já completos pendurados ao fundo, em contraste com o que ainda está sendo esculpido, mostram progresso real através da repetição disciplinada.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_09",
+      "keywords": [
+        "independencia conquistada",
+        "conforto pelo proprio esforco",
+        "autossuficiencia serena",
+        "prazer no resultado do trabalho"
+      ],
+      "concise_meaning": "Independência conquistada pelo próprio esforço permite desfrutar de conforto genuíno e sereno.",
+      "extended_meaning": "Uma figura elegante caminha em um jardim próspero, acompanhada por um falcão, cercada por discos que representam riqueza conquistada por conta própria. Esta carta indica autossuficiência bem-sucedida: alguém que alcançou estabilidade e conforto através do próprio esforço, e agora pode desfrutar desse resultado com serenidade, sem depender de mais ninguém. Sugere reconhecer e aproveitar as conquistas pessoais, valorizando a independência conquistada com trabalho real, não com sorte ou ajuda alheia. Pode surgir em contextos de estabilidade financeira pessoal ou realização profissional individual.",
+      "symbolism": "O falcão encapuzado, mas pousado tranquilamente no braço da figura, simboliza instintos e ambições bem treinados, agora sob controle sereno e produtivo.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_10",
+      "keywords": [
+        "heranca e legado",
+        "estabilidade multigeracional",
+        "riqueza duradoura",
+        "seguranca familiar consolidada"
+      ],
+      "concise_meaning": "Uma estabilidade material duradoura, muitas vezes ligada à família, garante segurança para além de uma única geração.",
+      "extended_meaning": "Uma cena familiar completa — avô, casal e criança, cães e um brasão — se desenrola diante de um arco decorado com dez discos, representando riqueza e legado consolidados ao longo do tempo. Esta carta indica estabilidade material de longo prazo, muitas vezes conectada à família, tradição ou patrimônio construído por gerações. Sugere que o esforço presente pode estar contribuindo para uma segurança que ultrapassa a própria vida, seja através de família, comunidade ou legado profissional duradouro. Pode surgir em contextos de herança, planejamento patrimonial ou a consolidação definitiva de uma base financeira estável.",
+      "symbolism": "A presença de três gerações na mesma cena, unidas sob o mesmo teto simbólico, reforça a ideia de continuidade e riqueza que se estende além do indivíduo.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_page",
+      "keywords": [
+        "oportunidade de aprendizado",
+        "dedicacao pratica iniciante",
+        "curiosidade sobre recursos",
+        "primeiros passos concretos"
+      ],
+      "concise_meaning": "Uma oportunidade concreta de aprendizado prático surge, exigindo dedicação para se desenvolver bem.",
+      "extended_meaning": "O Valete de Ouros observa atentamente o disco em suas mãos, estudando-o com cuidado e curiosidade prática, ainda no início do aprendizado sobre como fazer algo prosperar. Esta carta indica o começo de um projeto material ou de estudo que exige dedicação prática — um novo curso, um emprego inicial ou o cuidado inicial com finanças pessoais. Sugere abordar essa fase inicial com paciência e atenção aos detalhes, entendendo que o domínio completo virá com prática e tempo, não imediatamente.",
+      "symbolism": "O campo fértil ao fundo, onde o Valete parece perdido em contemplação, sugere potencial de crescimento real para quem se dedicar com cuidado ao que está sendo aprendido.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_knight",
+      "keywords": [
+        "persistencia metodica",
+        "trabalho constante",
+        "confiabilidade sem pressa",
+        "rotina produtiva"
+      ],
+      "concise_meaning": "Persistência metódica e trabalho constante, sem pressa, produzem resultados confiáveis a longo prazo.",
+      "extended_meaning": "O Cavaleiro de Ouros permanece parado, em contraste com os outros cavaleiros do baralho, representando paciência metódica e senso de responsabilidade constante. Esta carta indica confiabilidade através da rotina bem executada: alguém (ou uma atitude) que prefere avançar de forma constante e cuidadosa a arriscar tudo por pressa. Sugere valorizar processos consistentes e de longo prazo em vez de soluções rápidas, especialmente em questões financeiras ou de trabalho que exigem construção sólida ao longo do tempo.",
+      "symbolism": "O cavalo parado, e não em movimento como os demais cavaleiros do baralho, reforça visualmente a ideia de estabilidade deliberada em vez de pressa.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_queen",
+      "keywords": [
+        "cuidado pratico",
+        "abundancia domestica",
+        "generosidade terrena",
+        "equilibrio entre trabalho e afeto"
+      ],
+      "concise_meaning": "Cuidado prático e generosidade terrena equilibram bem-estar material com afeto genuíno pelas pessoas ao redor.",
+      "extended_meaning": "A Rainha de Ouros segura um disco com atenção maternal, cercada por um jardim próspero, unindo abundância material com cuidado afetivo genuíno. Esta carta indica alguém (ou uma atitude) que sabe equilibrar responsabilidade prática com generosidade — cuidar bem de recursos financeiros ao mesmo tempo em que cuida bem das pessoas ao redor. Sugere valorizar o conforto tangível do lar, da saúde e da estabilidade cotidiana como formas legítimas de expressar afeto e cuidado.",
+      "symbolism": "O coelho visível ao fundo do jardim da Rainha simboliza fertilidade e abundância discreta, reforçando prosperidade que também se estende ao cotidiano simples.",
+      "element": "Terra",
+      "astrology": null
+    },
+    {
+      "card_id": "pentacles_king",
+      "keywords": [
+        "prosperidade consolidada",
+        "seguranca material solida",
+        "generosidade responsavel",
+        "lideranca pratica e confiavel"
+      ],
+      "concise_meaning": "Prosperidade consolidada através de esforço responsável sustenta segurança material sólida e generosidade confiável.",
+      "extended_meaning": "O Rei de Ouros senta-se em um trono ornamentado com símbolos de fartura, cercado por um castelo próspero, representando estabilidade material conquistada com responsabilidade ao longo do tempo. Esta carta indica liderança prática confiável: alguém capaz de gerar e administrar recursos com competência, oferecendo segurança concreta a quem depende dele. Sugere que a prosperidade genuína vem da combinação entre esforço sustentado e responsabilidade generosa, não apenas acúmulo. Pode representar a necessidade de assumir uma postura mais firme e prática diante de questões financeiras importantes.",
+      "symbolism": "As vinhas esculpidas por todo o trono e o castelo próspero ao fundo reforçam riqueza construída organicamente, com paciência, e não por acaso.",
+      "element": "Terra",
+      "astrology": null
+    }
+  ]
+}

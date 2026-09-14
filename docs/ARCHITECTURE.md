@@ -1,0 +1,28 @@
+# Arquitetura Arcanum
+
+Flutter 3.47.2 / Dart 3.13.2. Domínio puro em `lib/domain`, portas em `lib/application`, adaptadores em `lib/infrastructure`, telas em `lib/features`, composição em `lib/app`. Riverpod coordena estado; GoRouter faz navegação; Drift/SQLite mantém dados locais. Dependências resolvidas em pubspec.lock.
+
+## Sessão e interação
+ReadingSession é imutável: contém 78 IDs únicos, ordem restante, cartas colocadas, revelações, posições normalizadas, pergunta, notas e versões. As cartas colocadas formam o prefixo da ordem. chooseCard move somente o índice selecionado para o início do restante e confirma a colocação atomicamente. Estados inválidos não alteram o original. RandomSource injetável; produção usa Random.secure e Fisher–Yates.
+
+Cartas com slotId ocupam uma posição principal; complementOf identifica o vínculo à posição lógica e associationOrder ordena seus complementos. Sem ambos os vínculos, a carta está solta. Toda tiragem pode usar o baralho inteiro. Um único FreeReadingScreen parametrizado renderiza os modos definidos pelo catálogo. TableGeometry projeta as posições considerando as duas dimensões, sem converter cruzes em grade. A Cruz Celta contém a carta de desafio transversal e linhas desenhadas por CustomPainter. Cartas livres preservam coordenadas normalizadas; slots são projetados pela geometria. Em paisagem curta o cabeçalho é compacto e o baralho ocupa uma margem lateral. InteractiveViewer permite ampliar e mover a mesa.
+
+A seleção fica apenas na interface até o usuário confirmar um destino. O feedback da seleção é sobreposto, sem alterar a geometria da mesa. Undo/redo são voláteis; revelação é uma barreira permanente no histórico. Todas as cartas podem ser arrastadas. Um movimento solto remove os vínculos; encaixar numa posição vazia associa a principal. Um destino ocupado ou a área adjacente associa um complemento. TableGeometry reserva uma faixa livre, procura espaços adjacentes que não cobrem cartas principais e projeta os complementos. CardTravel anima chegada/encaixe; CardTurn anima a virada, mostrando a face após meia volta. O feedback de arraste acompanha diretamente o ponteiro.
+
+## Persistência e privacidade
+Schema SQL 4, com migrações de 1/2/3 preservadas e testadas. Payload de sessão versão 1 permanece compatível: os campos opcionais complementOf/associationOrder registram os novos vínculos; snapshots anteriores sem esses campos são lidos como cartas soltas. ReadingController mantém rascunhos somente na memória e não consulta active() ao abrir um modo. Somente saveExplicitly grava snapshots; uma gravação em andamento bloqueia outra. Edições durante a gravação permanecem marcadas como não salvas. SavedTableScreen fornece o snapshot por ID em escopo próprio quando solicitado pelo diário. O utilitário Autosave legado permanece isolado e testado, sem uso no fluxo de tiragem. Não existem SDKs de analytics nem envio de notas. Backup automático Android desativado; exportação explícita permite inclusão opcional de texto privado.
+
+Web usa SQLite/WASM e Drift worker locais, preferindo OPFS com COOP/COEP. O servidor de desenvolvimento de produção envia esses cabeçalhos. Um único offline-worker faz cache apenas de recursos empacotados. Bootstrap explícito evita conflito com o service worker legado do Flutter. O teste real conserva service workers habilitados e verifica reload/offline.
+
+## Monetização
+PurchaseService e AdService são portas. O runtime padrão usa StoreUnavailable/NoAds; fakes existem para testes. ENABLE_STORE=true ativa InAppPurchase para Android/iOS e produto não consumível remove_ads. Eventos purchased/restored persistem entitlement; pending/canceled/error não concedem benefícios. O adaptador observa eventos fora de checkout e serializa processamento. A verificação atual confia no evento nativo e presença do recibo; não implementa verificação independente de assinatura nem reconciliação de estornos. Estas são pendências de produção registradas no checklist.
+
+ANDROID_BANNER_ID ativa apenas banner Android. UMP antecede qualquer pedido de anúncio, e a solicitação é não personalizada. A tela de tiragem compõe BannerAdSlot em sua própria faixa de rodapé. A área útil da mesa se adapta à altura disponível, sem sobreposição. A Home não compõe anúncios. Builds de desenvolvimento não fazem pedidos de anúncios. Identificadores AdMob dos manifests são amostras oficiais e devem ser substituídos antes de monetizar.
+
+## Plataformas
+Android e Web compilados neste WSL. Projetos iOS/macOS/Linux/Windows incluídos; as bibliotecas de persistência e compartilhamento têm adaptadores nativos. Existência desses projetos não prova build/execução nos outros sistemas. IDs e assinatura atual são de desenvolvimento.
+
+## Pares e seleção
+SpreadSlot possui requiredArcana opcional, serializado de forma compatível com snapshots anteriores. SpreadCatalog.withPairs gera dois slots por posição, sem ampliar o baralho. O controller valida o tipo da carta ao encaixá-la no componente maior/menor, tanto na retirada quanto no movimento. Escolher diretamente no baralho não obriga o filtro da próxima posição; escolher diretamente uma posição mantém seu filtro obrigatório. DeckPicker trabalha com identidades fechadas e retorna uma identidade ou uma permutação dos montes; filtros não alteram a ordem original nem reintroduzem cartas retiradas.
+
+PositionInsight associa o texto editorial da carta revelada à pergunta-guia da posição. Cartas fechadas não expõem nome nem texto. Tooltip atende mouse e pressão longa; foco de teclado mostra o painel e ativação da carta permite revelar/abrir detalhes. O verso atual é desenho vetorial em CardFace, independente do antigo PNG mantido no pacote histórico de assets.

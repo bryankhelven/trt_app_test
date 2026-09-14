@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.."
+tool/build_web --base-href /trt_app_test/ --dart-define=DATABASE_NAME=arcanum_trt_app_test_beta
+touch build/web/.nojekyll

@@ -1,0 +1,30 @@
+name: Problema na beta
+description: Relate algo que não funcionou no Arcanum.
+title: "[Beta] "
+labels: []
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: O que você fez?
+      description: Conte os passos até o problema aparecer.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: O que aconteceu e o que você esperava?
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Aparelho, sistema e navegador
+      placeholder: "Ex.: Android, Chrome; iPhone, Safari; Windows, Firefox"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Imagem ou informações adicionais
+      description: Opcional. Evite incluir perguntas pessoais ou notas privadas da tiragem.
