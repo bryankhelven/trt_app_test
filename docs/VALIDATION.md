@@ -1,6 +1,6 @@
 # Validação — Arcanum 1.2.0+3, revisão 3
 
-A revisão implementa o pedido corrigido do usuário, especificado em docs/spec/REVISION_3.md. O documento de requisitos original permanece preservado. Não houve publicação nem cobrança.
+A revisão implementa o pedido corrigido do usuário, especificado em docs/spec/REVISION_3.md. O documento de requisitos original permanece preservado. Este relatório registra a validação anterior à hospedagem; a publicação da beta web e suas verificações estão em [DEPLOYMENT.md](DEPLOYMENT.md). Não houve cobrança.
 
 ## Verificações desta revisão
 

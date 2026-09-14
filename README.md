@@ -10,6 +10,8 @@ Esta beta web não exige login e não realiza cobranças. Atualizações mostram
 
 O código está em `main` e o pacote publicado em `gh-pages`. Para gerar o pacote do Pages, execute `bash tool/build_pages` (Flutter 3.47.2). O build usa `/trt_app_test/` como caminho base e um banco local específico para a beta. O Pages publica a raiz da branch `gh-pages`.
 
+Consulte [publicação e verificações da beta](docs/DEPLOYMENT.md) para atualizar o site.
+
 App Flutter de tarot com baralho físico como referência: você escolhe, coloca e revela cada carta. Android, iOS e desktop; Web como alvo adicional. Nome e ícone provisórios.
 
 ## Experiência revisada (1.2.0+3)
